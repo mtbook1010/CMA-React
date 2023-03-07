@@ -37,6 +37,7 @@
   width: 100%;
   margin: auto;
   position: absolute;
+  object-fit: cover;
 }
 .desktop12-frame2375 {
   width: 100%;
@@ -1015,7 +1016,7 @@
   text-decoration: none;
 }
 .desktop12-image07 {
-  width: 1080px;
+  width: 100%;
   max-width: 1080px;
   margin-bottom: 64px;
 }
@@ -1068,11 +1069,9 @@
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  justify-content: flex-start;
 }
 .desktop12-frame23731 {
   flex: 1;
-  width: 100%;
   display: flex;
   padding: 24px;
   position: relative;
@@ -1127,7 +1126,7 @@
   text-decoration: none;
 }
 .desktop12-frame237601 {
-  width: 265.26025390625px;
+  width: 100%;
   display: flex;
   position: relative;
   align-items: center;
@@ -1137,6 +1136,7 @@
 }
 .desktop12-text086 {
   color: rgba(43, 62, 83, 1);
+  width: 100%;
   height: auto;
   font-size: 24px;
   align-self: stretch;
@@ -1172,14 +1172,8 @@
   border-color: transparent;
   border-radius: 4px;
 }
-.desktop12-arrow-stroke {
-  width: 32px;
-  height: 26px;
-  position: relative;
-}
 .desktop12-frame23741 {
   flex: 1;
-  width: 100%;
   display: flex;
   padding: 24px;
   position: relative;
@@ -1234,7 +1228,7 @@
   text-decoration: none;
 }
 .desktop12-frame237602 {
-  width: 265.26025390625px;
+  width: 100%;
   display: flex;
   position: relative;
   align-items: center;
@@ -1244,6 +1238,7 @@
 }
 .desktop12-text092 {
   color: rgba(43, 62, 83, 1);
+  width: 100%;
   height: auto;
   font-size: 24px;
   align-self: stretch;
@@ -1259,6 +1254,7 @@
 }
 .desktop12-text094 {
   color: rgba(130, 144, 159, 1);
+  width: 100%;
   height: auto;
   font-size: 16px;
   align-self: stretch;
@@ -1279,14 +1275,8 @@
   border-color: transparent;
   border-radius: 4px;
 }
-.desktop12-arrow-stroke1 {
-  width: 32px;
-  height: 26px;
-  position: relative;
-}
 .desktop12-frame23752 {
   flex: 1;
-  width: 100%;
   display: flex;
   padding: 24px;
   position: relative;
@@ -1341,7 +1331,7 @@
   text-decoration: none;
 }
 .desktop12-frame237603 {
-  width: 265.26025390625px;
+  width: 100%;
   display: flex;
   position: relative;
   align-items: center;
@@ -1351,6 +1341,7 @@
 }
 .desktop12-text098 {
   color: rgba(43, 62, 83, 1);
+  width: 100%;
   height: auto;
   font-size: 24px;
   align-self: stretch;
@@ -1366,6 +1357,7 @@
 }
 .desktop12-text100 {
   color: rgba(130, 144, 159, 1);
+  width: 100%;
   height: auto;
   font-size: 16px;
   align-self: stretch;
@@ -2828,52 +2820,43 @@
 }
 .desktop12-frame2394 {
   width: 100%;
+  height: auto;
   display: flex;
-  position: relative;
+  align-self: center;
   background: radial-gradient(50% 271.24% at 50% 100%, #367BC4 0%, #061829 100%);
   align-items: center;
   flex-shrink: 0;
   padding-top: 80px;
   border-color: transparent;
   padding-left: 48px;
-  margin-bottom: 0px;
   padding-right: 48px;
   flex-direction: column;
   padding-bottom: 80px;
-  justify-content: center;
+  justify-content: space-between;
 }
 .desktop12-frame23594 {
   width: 100%;
-  height: 385px;
+  height: auto;
   display: flex;
+  padding: 48px;
   overflow: hidden;
-  position: relative;
   max-width: 1080px;
   box-shadow: 0px 0px 8px 0px rgba(255, 255, 255, 0.07999999821186066) ;
   box-sizing: content-box;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 0;
   border-radius: 4px;
   background-size: cover;
+  justify-content: center;
   background-image: url("public/playground_assets/frame%2023716-400h.webp");
 }
-.desktop12-rectangle281 {
-  top: -0.0341796875px;
-  left: 1080px;
-  width: 385px;
-  height: 1080px;
-  position: absolute;
-  border-color: transparent;
-}
 .desktop12-frame23596 {
-  top: 141.0341796875px;
-  left: 48px;
-  width: 984px;
+  width: 100%;
   display: flex;
-  position: absolute;
   align-items: flex-end;
   flex-shrink: 0;
   border-color: transparent;
+  justify-content: space-between;
 }
 .desktop12-frame23601 {
   gap: 8px;
@@ -4075,7 +4058,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.desktop12-rectangle282 {
+.desktop12-rectangle281 {
   width: auto;
   height: 1px;
   position: relative;
@@ -4647,7 +4630,7 @@
   height: 16px;
   position: relative;
 }
-.desktop12-rectangle283 {
+.desktop12-rectangle282 {
   width: 100%;
   height: 1px;
   position: relative;
@@ -4803,7 +4786,7 @@
   background-size: cover;
   background-image: url("public/playground_assets/frame%2023716-400h.webp");
 }
-.desktop12-rectangle284 {
+.desktop12-rectangle283 {
   top: -0.0341796875px;
   left: 1080px;
   width: 385px;
@@ -5265,17 +5248,19 @@
   object-fit: cover;
 }
 .desktop12-frame235901 {
+  gap: 16px;
   display: flex;
   position: relative;
+  flex-wrap: wrap;
   align-items: center;
   border-color: transparent;
+  justify-content: flex-end;
 }
 .desktop12-frame16211 {
   display: flex;
   position: relative;
   align-items: center;
   border-color: transparent;
-  margin-right: 16px;
   justify-content: center;
 }
 .desktop12-text342 {
@@ -5387,6 +5372,10 @@
   position: relative;
   border-color: transparent;
 }
+.desktop12-container11 {
+  display: flex;
+  align-items: center;
+}
 .desktop12-frame16247 {
   height: 40px;
   display: flex;
@@ -5458,11 +5447,249 @@
   position: relative;
 }
 @media(max-width: 991px) {
+  .desktop12-frame2380 {
+    align-self: center;
+    justify-content: center;
+  }
+  .desktop12-rectangle28 {
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+  }
+  .desktop12-frame2401 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .desktop12-frame23637 {
+    margin-bottom: 24px;
+  }
+  .desktop12-text021 {
+    font-size: 20px;
+  }
+  .desktop12-text028 {
+    font-size: 20px;
+  }
+  .desktop12-text035 {
+    font-size: 20px;
+  }
+  .desktop12-frame23666 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .desktop12-frame1637 {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+  .desktop12-frame236053 {
+    width: 140px;
+    height: 140px;
+    margin-right: 24px;
+  }
+  .desktop12-image06 {
+    width: 200px;
+  }
+  .desktop12-text073 {
+    font-size: 28px;
+  }
+  .desktop12-frame16231 {
+    align-items: flex-start;
+  }
+  .desktop12-frame23731 {
+    padding: 20px;
+  }
   .desktop12-frame23593 {
     align-items: stretch;
   }
+  .desktop12-text086 {
+    font-size: 20px;
+  }
+  .desktop12-text088 {
+    font-size: 14px;
+  }
   .desktop12-rectangle11 {
     align-self: stretch;
+  }
+  .desktop12-frame23741 {
+    padding: 20px;
+  }
+  .desktop12-text092 {
+    font-size: 20px;
+  }
+  .desktop12-text094 {
+    font-size: 14px;
+  }
+  .desktop12-frame23752 {
+    padding: 20px;
+  }
+  .desktop12-text098 {
+    font-size: 20px;
+  }
+  .desktop12-text100 {
+    font-size: 14px;
+  }
+  .desktop12-frame16232 {
+    gap: 8px;
+    flex-direction: column;
+  }
+  .desktop12-frame23732 {
+    width: 100%;
+    padding-top: 16px;
+    padding-left: 24x;
+    padding-right: 24x;
+    flex-direction: row;
+    padding-bottom: 16px;
+  }
+  .desktop12-applause {
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+  }
+  .desktop12-frame237604 {
+    justify-content: center;
+  }
+  .desktop12-text104 {
+    text-align: left;
+    margin-bottom: 0px;
+  }
+  .desktop12-text106 {
+    text-align: left;
+  }
+  .desktop12-frame23742 {
+    width: 100%;
+    padding-top: 16px;
+    padding-left: 24x;
+    padding-right: 24x;
+    flex-direction: row;
+    padding-bottom: 16px;
+  }
+  .desktop12-report {
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+  }
+  .desktop12-frame237605 {
+    justify-content: center;
+  }
+  .desktop12-text108 {
+    text-align: left;
+    margin-bottom: 0px;
+  }
+  .desktop12-text110 {
+    text-align: left;
+  }
+  .desktop12-frame23733 {
+    width: 100%;
+    padding-top: 16px;
+    padding-left: 24x;
+    padding-right: 24x;
+    flex-direction: row;
+    padding-bottom: 16px;
+  }
+  .desktop12-report1 {
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+  }
+  .desktop12-frame237606 {
+    justify-content: center;
+  }
+  .desktop12-text112 {
+    text-align: left;
+    margin-bottom: 0px;
+  }
+  .desktop12-text114 {
+    text-align: left;
+  }
+  .desktop12-frame23753 {
+    width: 100%;
+    padding-top: 16px;
+    padding-left: 24x;
+    padding-right: 24x;
+    flex-direction: row;
+    padding-bottom: 16px;
+  }
+  .desktop12-synchronize {
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+  }
+  .desktop12-frame237607 {
+    justify-content: center;
+  }
+  .desktop12-text116 {
+    text-align: left;
+    margin-bottom: 0px;
+  }
+  .desktop12-text118 {
+    text-align: left;
+  }
+  .desktop12-frame23743 {
+    width: 100%;
+    padding-top: 16px;
+    padding-left: 24x;
+    padding-right: 24x;
+    flex-direction: row;
+    padding-bottom: 16px;
+  }
+  .desktop12-businessstrategy {
+    width: 48px;
+    height: 48px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+  }
+  .desktop12-frame237608 {
+    justify-content: center;
+  }
+  .desktop12-text120 {
+    text-align: left;
+    margin-bottom: 0px;
+  }
+  .desktop12-text122 {
+    text-align: left;
+  }
+  .desktop12-frame23604 {
+    width: 140px;
+    height: 140px;
+    margin-right: 24px;
+  }
+  .desktop12-image08 {
+    width: 200px;
+  }
+  .desktop12-text126 {
+    font-size: 28px;
+  }
+  .desktop12-frame23606 {
+    width: 140px;
+    height: 140px;
+    margin-right: 24px;
+  }
+  .desktop12-image09 {
+    width: 200px;
+  }
+  .desktop12-text148 {
+    font-size: 28px;
+  }
+  .desktop12-frame16331 {
+    padding: 24px;
+  }
+  .desktop12-image3 {
+    height: auto;
+  }
+  .desktop12-frame236761 {
+    padding: 24px;
+  }
+  .desktop12-image31 {
+    height: auto;
+  }
+  .desktop12-frame23596 {
+    gap: 24px;
+    align-items: flex-start;
+    flex-direction: column;
   }
   .desktop12-frame236301 {
     max-width: 480px;
@@ -5480,5 +5707,136 @@
   }
   .desktop12-frame23640 {
     flex-direction: column;
+  }
+  .desktop12-frame2400 {
+    align-self: center;
+    justify-content: center;
+  }
+  .desktop12-frame16211 {
+    display: none;
+  }
+}
+@media(max-width: 767px) {
+  .desktop12-frame2380 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-text {
+    font-size: 48px;
+  }
+  .desktop12-frame23677 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-frame2401 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-frame1623 {
+    gap: 8px;
+    flex-direction: column;
+  }
+  .desktop12-frame2374 {
+    gap: 16px;
+    width: 100%;
+    align-items: center;
+    padding-top: 16px;
+    padding-left: 48px;
+    padding-right: 16px;
+    flex-direction: row;
+    padding-bottom: 16px;
+    justify-content: flex-start;
+  }
+  .desktop12-text019 {
+    align-self: center;
+    margin-bottom: 0px;
+  }
+  .desktop12-image {
+    margin-top: 16px;
+  }
+  .desktop12-frame2376 {
+    align-self: center;
+  }
+  .desktop12-text021 {
+    text-align: left;
+  }
+  .desktop12-frame2373 {
+    gap: 16px;
+    width: 100%;
+    align-items: center;
+    padding-top: 16px;
+    padding-left: 48px;
+    padding-right: 16px;
+    flex-direction: row;
+    padding-bottom: 16px;
+    justify-content: flex-start;
+  }
+  .desktop12-text026 {
+    align-self: center;
+    margin-bottom: 0px;
+  }
+  .desktop12-image01 {
+    margin-top: 16px;
+  }
+  .desktop12-text028 {
+    align-self: center;
+    text-align: left;
+  }
+  .desktop12-frame23751 {
+    gap: 16px;
+    width: 100%;
+    align-items: center;
+    padding-top: 16px;
+    padding-left: 48px;
+    padding-right: 16px;
+    flex-direction: row;
+    padding-bottom: 16px;
+    justify-content: flex-start;
+  }
+  .desktop12-text033 {
+    align-self: center;
+    margin-bottom: 0px;
+  }
+  .desktop12-image02 {
+    margin-top: 36px;
+  }
+  .desktop12-text035 {
+    align-self: center;
+    text-align: left;
+  }
+  .desktop12-frame23666 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-frame1637 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-frame16231 {
+    flex-direction: column;
+  }
+  .desktop12-frame2402 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-frame23649 {
+    padding-left: 48px;
+    padding-right: 48px;
+    flex-direction: column;
+  }
+  .desktop12-frame23665 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .desktop12-frame23679 {
+    gap: 24px;
+    flex-direction: column;
+  }
+  .desktop12-frame16331 {
+    width: 100%;
+    margin-right: 0px;
+  }
+  .desktop12-frame236761 {
+    width: 100%;
   }
 }
