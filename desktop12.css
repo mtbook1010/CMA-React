@@ -139,6 +139,7 @@
   margin-bottom: 0;
   background-clip: text;
   text-fill-color: transparent;
+  background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   animation-play-state: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1025,10 +1026,11 @@
   text-decoration: none;
 }
 .desktop12-text074 {
-  color: rgba(43, 63, 83, 1);
+  color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
-  font-size: 16px;
+  font-size: 14px;
+  max-width: 480px;
   align-self: flex-start;
   font-style: W3;
   text-align: left;
@@ -1070,7 +1072,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text079 {
+.desktop12-text077 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -1135,7 +1137,7 @@
   background-color: var(--dl-color-default-red);
   background-image: linear-gradient(60deg, rgba(199, 51, 103, 1) 0%, rgba(253, 48, 91, 1) 100%);
 }
-.desktop12-text081 {
+.desktop12-text079 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -1159,7 +1161,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text083 {
+.desktop12-text081 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -1175,7 +1177,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text085 {
+.desktop12-text083 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 16px;
@@ -1194,7 +1196,6 @@
   width: 100%;
   height: 160px;
   position: relative;
-  align-self: stretch;
   object-fit: cover;
   border-color: transparent;
   border-radius: 4px;
@@ -1239,7 +1240,7 @@
   background-color: var(--dl-color-default-red);
   background-image: linear-gradient(60deg, rgba(199, 51, 103, 1) 0%, rgba(253, 48, 91, 1) 100%);
 }
-.desktop12-text087 {
+.desktop12-text085 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -1263,7 +1264,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text089 {
+.desktop12-text087 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -1279,7 +1280,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text091 {
+.desktop12-text089 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -1344,7 +1345,7 @@
   background-color: var(--dl-color-default-red);
   background-image: linear-gradient(60deg, rgba(199, 51, 103, 1) 0%, rgba(253, 48, 91, 1) 100%);
 }
-.desktop12-text093 {
+.desktop12-text091 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -1368,7 +1369,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text095 {
+.desktop12-text093 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -1384,7 +1385,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text097 {
+.desktop12-text095 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -1415,7 +1416,7 @@
   align-self: stretch;
   align-items: flex-start;
   border-color: transparent;
-  margin-bottom: 64px;
+  margin-bottom: 36px;
   flex-direction: column;
   justify-content: center;
 }
@@ -1433,7 +1434,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text099 {
+.desktop12-text097 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -1487,7 +1488,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text101 {
+.desktop12-text099 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -1502,7 +1503,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text103 {
+.desktop12-text101 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 12px;
@@ -1547,7 +1548,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text105 {
+.desktop12-text103 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -1562,7 +1563,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text107 {
+.desktop12-text105 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 12px;
@@ -1607,7 +1608,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text109 {
+.desktop12-text107 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -1622,7 +1623,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text111 {
+.desktop12-text109 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 12px;
@@ -1667,7 +1668,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text113 {
+.desktop12-text111 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -1682,7 +1683,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text115 {
+.desktop12-text113 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 12px;
@@ -1726,7 +1727,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text117 {
+.desktop12-text115 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -1741,7 +1742,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text119 {
+.desktop12-text117 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 12px;
@@ -1835,7 +1836,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text121 {
+.desktop12-text119 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -1851,7 +1852,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text123 {
+.desktop12-text121 {
   color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
@@ -1867,8 +1868,8 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text124 {
-  color: rgba(43, 63, 83, 1);
+.desktop12-text122 {
+  color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
   font-size: 20px;
@@ -1877,18 +1878,19 @@
   text-align: left;
   font-family: Inter;
   font-weight: 700;
-  line-height: 160.0000023841858%;
+  line-height: 160%;
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text129 {
+.desktop12-text126 {
   color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
-  font-size: 16px;
-  align-self: stretch;
+  font-size: 14px;
+  max-width: 480px;
+  align-self: flex-start;
   font-style: W3;
   text-align: left;
   font-family: Hiragino Kaku Gothic Pro;
@@ -1951,7 +1953,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text133 {
+.desktop12-text129 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 24px;
@@ -1966,7 +1968,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text134 {
+.desktop12-text130 {
   color: #82909f;
   height: auto;
   font-size: 14px;
@@ -1989,7 +1991,7 @@
   border-color: transparent;
   margin-bottom: 8px;
 }
-.desktop12-text135 {
+.desktop12-text131 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 15px;
@@ -2046,7 +2048,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text136 {
+.desktop12-text132 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 24px;
@@ -2061,7 +2063,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text137 {
+.desktop12-text133 {
   color: #82909f;
   height: auto;
   font-size: 14px;
@@ -2084,7 +2086,7 @@
   border-color: transparent;
   margin-bottom: 8px;
 }
-.desktop12-text138 {
+.desktop12-text134 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 15px;
@@ -2141,7 +2143,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text140 {
+.desktop12-text136 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 24px;
@@ -2156,7 +2158,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text141 {
+.desktop12-text137 {
   color: #82909f;
   height: auto;
   font-size: 14px;
@@ -2179,7 +2181,7 @@
   border-color: transparent;
   margin-bottom: 8px;
 }
-.desktop12-text142 {
+.desktop12-text138 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 15px;
@@ -2260,7 +2262,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text144 {
+.desktop12-text140 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -2276,7 +2278,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text146 {
+.desktop12-text142 {
   color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
@@ -2292,8 +2294,8 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text147 {
-  color: rgba(43, 63, 83, 1);
+.desktop12-text143 {
+  color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
   font-size: 20px;
@@ -2302,17 +2304,18 @@
   text-align: left;
   font-family: Inter;
   font-weight: 700;
-  line-height: 160.0000023841858%;
+  line-height: 160%;
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text152 {
-  color: rgba(43, 63, 83, 1);
+.desktop12-text147 {
+  color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
-  font-size: 16px;
+  font-size: 14px;
+  max-width: 480px;
   align-self: stretch;
   font-style: W3;
   text-align: left;
@@ -2370,7 +2373,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text154 {
+.desktop12-text148 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -2393,8 +2396,8 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text156 {
-  color: rgba(255, 255, 255, 1);
+.desktop12-text150 {
+  color: rgb(255, 255, 255);
   height: auto;
   font-size: 24px;
   align-self: auto;
@@ -2402,13 +2405,13 @@
   text-align: left;
   font-family: Inter;
   font-weight: 700;
-  line-height: 160.0000023841858%;
+  line-height: 160%;
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text158 {
+.desktop12-text151 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2453,7 +2456,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text160 {
+.desktop12-text153 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -2476,7 +2479,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text162 {
+.desktop12-text155 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -2491,7 +2494,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text164 {
+.desktop12-text157 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2535,7 +2538,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text166 {
+.desktop12-text159 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -2558,7 +2561,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text168 {
+.desktop12-text161 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -2573,7 +2576,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text170 {
+.desktop12-text163 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2613,7 +2616,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text172 {
+.desktop12-text165 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -2667,7 +2670,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text174 {
+.desktop12-text167 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -2700,7 +2703,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text176 {
+.desktop12-text169 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2724,7 +2727,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text178 {
+.desktop12-text171 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2748,7 +2751,7 @@
   border-radius: 4px;
   margin-bottom: 12px;
 }
-.desktop12-text180 {
+.desktop12-text173 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2792,7 +2795,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text182 {
+.desktop12-text175 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -2825,7 +2828,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text184 {
+.desktop12-text177 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2849,7 +2852,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text186 {
+.desktop12-text179 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2873,7 +2876,7 @@
   border-radius: 4px;
   margin-bottom: 12px;
 }
-.desktop12-text188 {
+.desktop12-text181 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2954,7 +2957,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text190 {
+.desktop12-text183 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2969,7 +2972,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text192 {
+.desktop12-text185 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
@@ -2991,7 +2994,7 @@
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text196 {
+.desktop12-text189 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -3022,7 +3025,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text199 {
+.desktop12-text192 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -3124,7 +3127,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text200 {
+.desktop12-text193 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -3145,7 +3148,7 @@
   align-items: center;
   border-color: transparent;
 }
-.desktop12-text202 {
+.desktop12-text195 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 48px;
@@ -3202,7 +3205,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text204 {
+.desktop12-text197 {
   color: rgba(255, 255, 255, 1);
   width: 100%;
   height: auto;
@@ -3218,7 +3221,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text209 {
+.desktop12-text202 {
   color: rgba(255, 255, 255, 1);
   width: 100%;
   height: auto;
@@ -3275,7 +3278,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text211 {
+.desktop12-text204 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3319,7 +3322,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text216 {
+.desktop12-text209 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3362,7 +3365,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text221 {
+.desktop12-text214 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3396,7 +3399,7 @@
   background-color: var(--dl-color-default-blue);
   background-image: linear-gradient(60deg, rgba(55, 125, 197, 1) 0%, rgba(1, 55, 146, 1) 100%);
 }
-.desktop12-text226 {
+.desktop12-text219 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 18px;
@@ -3436,7 +3439,7 @@
   justify-content: space-between;
   background-color: #ffffff;
 }
-.desktop12-text228 {
+.desktop12-text220 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -3514,7 +3517,7 @@
   border-color: transparent;
   margin-bottom: 10px;
 }
-.desktop12-text229 {
+.desktop12-text221 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 48px;
@@ -3529,7 +3532,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text231 {
+.desktop12-text223 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -3588,7 +3591,7 @@
   border-color: transparent;
   border-radius: 7.071067810058594px;
 }
-.desktop12-text233 {
+.desktop12-text225 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 12px;
@@ -3654,7 +3657,7 @@
   border-color: transparent;
   margin-bottom: 10px;
 }
-.desktop12-text240 {
+.desktop12-text232 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 48px;
@@ -3669,7 +3672,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text242 {
+.desktop12-text234 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -3748,7 +3751,7 @@
   margin-right: 10px;
   border-radius: 4px;
 }
-.desktop12-text244 {
+.desktop12-text236 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -3763,7 +3766,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text246 {
+.desktop12-text238 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 18px;
@@ -3816,7 +3819,7 @@
   margin-bottom: 8px;
   justify-content: flex-start;
 }
-.desktop12-text248 {
+.desktop12-text240 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 32px;
@@ -3848,7 +3851,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text250 {
+.desktop12-text242 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -3871,7 +3874,7 @@
   border-color: transparent;
   justify-content: flex-start;
 }
-.desktop12-text252 {
+.desktop12-text244 {
   color: transparent;
   font-size: 24px;
   align-self: auto;
@@ -3891,7 +3894,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.desktop12-text253 {
+.desktop12-text245 {
   color: transparent;
   font-size: 40px;
   align-self: auto;
@@ -3911,7 +3914,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.desktop12-text254 {
+.desktop12-text246 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -3940,7 +3943,7 @@
   justify-content: center;
   background-color: rgba(245, 245, 245, 1);
 }
-.desktop12-text256 {
+.desktop12-text248 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 14px;
@@ -3993,7 +3996,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text258 {
+.desktop12-text250 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -4029,7 +4032,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text260 {
+.desktop12-text252 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -4065,7 +4068,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text262 {
+.desktop12-text254 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4105,7 +4108,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text263 {
+.desktop12-text255 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4155,7 +4158,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.desktop12-text264 {
+.desktop12-text256 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4209,7 +4212,7 @@
   justify-content: center;
   background-color: rgba(43, 62, 83, 1);
 }
-.desktop12-text265 {
+.desktop12-text257 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 18px;
@@ -4224,7 +4227,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text267 {
+.desktop12-text259 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -4253,7 +4256,7 @@
   border-radius: 4px;
   background-color: rgba(247, 247, 247, 1);
 }
-.desktop12-text269 {
+.desktop12-text261 {
   color: rgb(130, 144, 159);
   width: 100%;
   height: auto;
@@ -4325,7 +4328,7 @@
   margin-bottom: 8px;
   justify-content: flex-start;
 }
-.desktop12-text279 {
+.desktop12-text271 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 32px;
@@ -4357,7 +4360,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text281 {
+.desktop12-text273 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -4381,7 +4384,7 @@
   border-color: transparent;
   justify-content: flex-start;
 }
-.desktop12-text283 {
+.desktop12-text275 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 24px;
@@ -4396,7 +4399,7 @@
   margin-bottom: 4px;
   text-decoration: none;
 }
-.desktop12-text284 {
+.desktop12-text276 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 40px;
@@ -4411,7 +4414,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text285 {
+.desktop12-text277 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -4464,7 +4467,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text287 {
+.desktop12-text279 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -4500,7 +4503,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text289 {
+.desktop12-text281 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -4564,7 +4567,7 @@
   height: 20px;
   position: absolute;
 }
-.desktop12-text291 {
+.desktop12-text283 {
   color: rgba(234, 234, 234, 1);
   height: auto;
   font-size: 18px;
@@ -4627,7 +4630,7 @@
   height: 20px;
   position: absolute;
 }
-.desktop12-text293 {
+.desktop12-text285 {
   color: rgba(234, 234, 234, 1);
   height: auto;
   font-size: 18px;
@@ -4672,7 +4675,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.desktop12-text295 {
+.desktop12-text287 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4705,7 +4708,7 @@
   border-color: transparent;
   margin-bottom: 24px;
 }
-.desktop12-text296 {
+.desktop12-text288 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -4761,7 +4764,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text303 {
+.desktop12-text295 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 48px;
@@ -4783,7 +4786,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text305 {
+.desktop12-text297 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 28px;
@@ -4798,7 +4801,7 @@
   margin-bottom: -8px;
   text-decoration: none;
 }
-.desktop12-text307 {
+.desktop12-text299 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -4888,7 +4891,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text316 {
+.desktop12-text308 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -4903,7 +4906,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text318 {
+.desktop12-text310 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
@@ -4925,7 +4928,7 @@
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text322 {
+.desktop12-text314 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -4956,7 +4959,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text325 {
+.desktop12-text317 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -5030,7 +5033,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.desktop12-text326 {
+.desktop12-text318 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5049,7 +5052,7 @@
   position: relative;
   border-color: transparent;
 }
-.desktop12-text328 {
+.desktop12-text320 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -5068,7 +5071,7 @@
   position: relative;
   border-color: transparent;
 }
-.desktop12-text329 {
+.desktop12-text321 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5087,7 +5090,7 @@
   position: relative;
   border-color: transparent;
 }
-.desktop12-text331 {
+.desktop12-text323 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -5106,7 +5109,7 @@
   position: relative;
   border-color: transparent;
 }
-.desktop12-text332 {
+.desktop12-text324 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5146,7 +5149,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text334 {
+.desktop12-text326 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -5161,6 +5164,7 @@
   margin-bottom: 0;
   background-clip: text;
   text-fill-color: transparent;
+  background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   animation-play-state: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -5183,7 +5187,7 @@
   border-radius: 999px;
   justify-content: center;
 }
-.desktop12-text335 {
+.desktop12-text327 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
@@ -5214,7 +5218,7 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.desktop12-text336 {
+.desktop12-text328 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5252,7 +5256,7 @@
   background-color: var(--dl-color-default-red);
   background-image: linear-gradient(60deg, rgba(199, 51, 103, 1) 0%, rgba(253, 48, 91, 1) 100%);
 }
-.desktop12-text338 {
+.desktop12-text330 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -5309,7 +5313,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.desktop12-text340 {
+.desktop12-text332 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5331,7 +5335,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text342 {
+.desktop12-text334 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5353,7 +5357,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text344 {
+.desktop12-text336 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5375,7 +5379,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text346 {
+.desktop12-text338 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -5397,7 +5401,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text347 {
+.desktop12-text339 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5435,7 +5439,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text349 {
+.desktop12-text341 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -5450,6 +5454,7 @@
   margin-bottom: 0;
   background-clip: text;
   text-fill-color: transparent;
+  background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   animation-play-state: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -5472,7 +5477,7 @@
   border-radius: 999px;
   justify-content: center;
 }
-.desktop12-text350 {
+.desktop12-text342 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
@@ -5550,10 +5555,10 @@
   .desktop12-frame23593 {
     align-items: stretch;
   }
-  .desktop12-text083 {
+  .desktop12-text081 {
     font-size: 20px;
   }
-  .desktop12-text085 {
+  .desktop12-text083 {
     font-size: 14px;
   }
   .desktop12-rectangle11 {
@@ -5562,20 +5567,23 @@
   .desktop12-frame23741 {
     padding: 20px;
   }
-  .desktop12-text089 {
+  .desktop12-text087 {
     font-size: 20px;
   }
-  .desktop12-text091 {
+  .desktop12-text089 {
     font-size: 14px;
   }
   .desktop12-frame23752 {
     padding: 20px;
   }
-  .desktop12-text095 {
+  .desktop12-text093 {
     font-size: 20px;
   }
-  .desktop12-text097 {
+  .desktop12-text095 {
     font-size: 14px;
+  }
+  .desktop12-frame2408 {
+    margin-bottom: 36px;
   }
   .desktop12-frame16232 {
     gap: 8px;
@@ -5598,11 +5606,11 @@
   .desktop12-frame237604 {
     justify-content: center;
   }
-  .desktop12-text101 {
+  .desktop12-text099 {
     text-align: left;
     margin-bottom: 0px;
   }
-  .desktop12-text103 {
+  .desktop12-text101 {
     text-align: left;
   }
   .desktop12-frame23742 {
@@ -5622,11 +5630,11 @@
   .desktop12-frame237605 {
     justify-content: center;
   }
-  .desktop12-text105 {
+  .desktop12-text103 {
     text-align: left;
     margin-bottom: 0px;
   }
-  .desktop12-text107 {
+  .desktop12-text105 {
     text-align: left;
   }
   .desktop12-frame23733 {
@@ -5646,11 +5654,11 @@
   .desktop12-frame237606 {
     justify-content: center;
   }
-  .desktop12-text109 {
+  .desktop12-text107 {
     text-align: left;
     margin-bottom: 0px;
   }
-  .desktop12-text111 {
+  .desktop12-text109 {
     text-align: left;
   }
   .desktop12-frame23753 {
@@ -5670,11 +5678,11 @@
   .desktop12-frame237607 {
     justify-content: center;
   }
-  .desktop12-text113 {
+  .desktop12-text111 {
     text-align: left;
     margin-bottom: 0px;
   }
-  .desktop12-text115 {
+  .desktop12-text113 {
     text-align: left;
   }
   .desktop12-frame23743 {
@@ -5694,11 +5702,11 @@
   .desktop12-frame237608 {
     justify-content: center;
   }
-  .desktop12-text117 {
+  .desktop12-text115 {
     text-align: left;
     margin-bottom: 0px;
   }
-  .desktop12-text119 {
+  .desktop12-text117 {
     text-align: left;
   }
   .desktop12-frame2402 {
@@ -5713,10 +5721,10 @@
   .desktop12-image08 {
     width: 200px;
   }
-  .desktop12-text123 {
+  .desktop12-text121 {
     font-size: 28px;
   }
-  .desktop12-text124 {
+  .desktop12-text122 {
     font-size: 28px;
   }
   .desktop12-frame23665 {
@@ -5731,10 +5739,10 @@
   .desktop12-image09 {
     width: 200px;
   }
-  .desktop12-text146 {
+  .desktop12-text142 {
     font-size: 28px;
   }
-  .desktop12-text147 {
+  .desktop12-text143 {
     font-size: 28px;
   }
   .desktop12-frame16331 {
@@ -6007,22 +6015,54 @@
     flex-direction: column;
   }
   .desktop12-frame23731 {
+    gap: 16px;
     width: 100%;
+    flex-direction: row;
+  }
+  .desktop12-frame23593 {
+    width: auto;
+  }
+  .desktop12-frame2392 {
+    margin-bottom: 8px;
+  }
+  .desktop12-text081 {
+    font-size: 24px;
+    text-align: left;
   }
   .desktop12-text083 {
-    font-size: 28px;
+    text-align: left;
   }
   .desktop12-frame23741 {
+    gap: 16px;
     width: 100%;
+    flex-direction: row;
+  }
+  .desktop12-frame23921 {
+    margin-bottom: 8px;
+  }
+  .desktop12-text087 {
+    font-size: 24px;
+    text-align: left;
   }
   .desktop12-text089 {
-    font-size: 28px;
+    text-align: left;
   }
   .desktop12-frame23752 {
+    gap: 16px;
     width: 100%;
+    flex-direction: row;
+  }
+  .desktop12-frame23922 {
+    margin-bottom: 8px;
+  }
+  .desktop12-text093 {
+    width: auto;
+    font-size: 24px;
+    align-self: flex-start;
+    text-align: left;
   }
   .desktop12-text095 {
-    font-size: 28px;
+    text-align: left;
   }
   .desktop12-frame2402 {
     padding-top: 64px;
@@ -6038,18 +6078,18 @@
     margin-right: 0px;
     margin-bottom: 16px;
   }
+  .desktop12-text119 {
+    text-align: center;
+  }
   .desktop12-text121 {
-    text-align: center;
-  }
-  .desktop12-text123 {
     font-size: 24px;
     text-align: center;
   }
-  .desktop12-text124 {
+  .desktop12-text122 {
     font-size: 24px;
     text-align: center;
   }
-  .desktop12-text129 {
+  .desktop12-text126 {
     text-align: center;
   }
   .desktop12-frame23649 {
@@ -6072,18 +6112,18 @@
     margin-right: 0px;
     margin-bottom: 16px;
   }
-  .desktop12-text144 {
+  .desktop12-text140 {
     text-align: center;
   }
-  .desktop12-text146 {
+  .desktop12-text142 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .desktop12-text143 {
     font-size: 24px;
     text-align: center;
   }
   .desktop12-text147 {
-    font-size: 24px;
-    text-align: center;
-  }
-  .desktop12-text152 {
     text-align: center;
   }
   .desktop12-frame23679 {
@@ -6106,20 +6146,20 @@
   .desktop12-frame23601 {
     margin-right: 0px;
   }
-  .desktop12-text192 {
+  .desktop12-text185 {
     font-size: 28px;
   }
   .desktop12-frame236762 {
     padding-left: 24px;
     padding-right: 24px;
   }
-  .desktop12-text211 {
+  .desktop12-text204 {
     font-size: 14px;
   }
-  .desktop12-text216 {
+  .desktop12-text209 {
     font-size: 14px;
   }
-  .desktop12-text221 {
+  .desktop12-text214 {
     font-size: 14px;
   }
   .desktop12-frame236031 {
@@ -6197,7 +6237,7 @@
   .desktop12-frame236011 {
     margin-right: 0px;
   }
-  .desktop12-text318 {
+  .desktop12-text310 {
     font-size: 28px;
   }
   .desktop12-frame56 {
@@ -6419,7 +6459,7 @@
   }
   .desktop12-text070 {
     color: rgb(43, 63, 83);
-    font-size: 4.5vw;
+    font-size: 4vw;
     font-family: Inter;
     font-weight: 700;
     line-height: 160%;
@@ -6435,17 +6475,41 @@
     margin-right: 0px;
     margin-bottom: 8px;
   }
-  .desktop12-text079 {
+  .desktop12-text077 {
     font-size: 28px;
   }
-  .desktop12-text083 {
+  .desktop12-text081 {
     font-size: 20px;
+    margin-bottom: 0px;
+  }
+  .desktop12-text083 {
+    font-size: 12px;
+  }
+  .desktop12-rectangle11 {
+    width: 120px;
+    height: 140px;
+  }
+  .desktop12-text087 {
+    font-size: 20px;
+    margin-bottom: 0px;
   }
   .desktop12-text089 {
+    font-size: 12px;
+  }
+  .desktop12-rectangle111 {
+    width: 120px;
+    height: 140px;
+  }
+  .desktop12-text093 {
     font-size: 20px;
+    margin-bottom: 0px;
   }
   .desktop12-text095 {
-    font-size: 20px;
+    font-size: 12px;
+  }
+  .desktop12-rectangle112 {
+    width: 120px;
+    height: 140px;
   }
   .desktop12-frame23620 {
     flex-direction: column;
@@ -6454,7 +6518,7 @@
     margin-right: 0px;
     margin-bottom: 8px;
   }
-  .desktop12-text099 {
+  .desktop12-text097 {
     font-size: 28px;
   }
   .desktop12-image11 {
@@ -6464,7 +6528,7 @@
     width: 100%;
     display: block;
   }
-  .desktop12-text123 {
+  .desktop12-text121 {
     color: rgb(43, 63, 83);
     font-size: 36px;
     font-family: Inter;
@@ -6472,11 +6536,15 @@
     line-height: 160%;
     text-decoration: none;
   }
-  .desktop12-text124 {
-    font-size: 4.5vw;
+  .desktop12-text122 {
+    font-size: 4vw;
   }
-  .desktop12-text129 {
+  .desktop12-text126 {
+    color: rgb(43, 63, 83);
     font-size: 12px;
+    font-weight: 400;
+    line-height: 200%;
+    text-decoration: none;
   }
   .desktop12-frame23649 {
     padding-left: 0px;
@@ -6486,7 +6554,7 @@
     padding-left: 16px;
     padding-right: 16px;
   }
-  .desktop12-text146 {
+  .desktop12-text142 {
     color: rgb(43, 63, 83);
     font-size: 36px;
     font-family: Inter;
@@ -6494,19 +6562,19 @@
     line-height: 160%;
     text-decoration: none;
   }
-  .desktop12-text147 {
-    font-size: 4.5vw;
+  .desktop12-text143 {
+    font-size: 4vw;
   }
-  .desktop12-text152 {
+  .desktop12-text147 {
     font-size: 12px;
   }
-  .desktop12-text156 {
+  .desktop12-text150 {
     font-size: 28px;
   }
-  .desktop12-text162 {
+  .desktop12-text155 {
     font-size: 28px;
   }
-  .desktop12-text168 {
+  .desktop12-text161 {
     font-size: 28px;
   }
   .desktop12-frame23772 {
@@ -6517,26 +6585,31 @@
     margin-right: 0px;
     margin-bottom: 8px;
   }
-  .desktop12-text172 {
+  .desktop12-text165 {
     font-size: 28px;
   }
   .desktop12-frame23594 {
     padding: 24px;
   }
-  .desktop12-text192 {
+  .desktop12-text185 {
     font-size: 24px;
   }
   .desktop12-frame23599 {
     width: 100%;
   }
-  .desktop12-text196 {
+  .desktop12-text189 {
     width: 100%;
   }
   .desktop12-frame16241 {
     width: 100%;
   }
-  .desktop12-text199 {
-    font-size: 15px;
+  .desktop12-text192 {
+    color: transparent;
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 100%;
+    background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   }
   .desktop12-frame236762 {
     padding-left: 0px;
@@ -6553,7 +6626,7 @@
   .desktop12-image10 {
     width: 200px;
   }
-  .desktop12-text202 {
+  .desktop12-text195 {
     font-size: 36px;
   }
   .desktop12-frame23690 {
@@ -6566,56 +6639,98 @@
     margin-right: 0x;
     margin-bottom: -30px;
   }
-  .desktop12-text204 {
-    font-size: 24px;
+  .desktop12-frame23688 {
+    width: 90%;
+  }
+  .desktop12-text197 {
+    font-size: 20px;
+  }
+  .desktop12-text202 {
+    font-size: 12px;
   }
   .desktop12-frame16233 {
     gap: 8px;
+    align-self: center;
+    align-items: center;
     padding-left: 16px;
     margin-bottom: 24px;
     padding-right: 16px;
     flex-direction: column;
+    justify-content: center;
   }
   .desktop12-frame23745 {
     gap: 24px;
+    width: 100%;
+    position: 0px;
+    max-width: 680px;
+    align-self: center;
     align-items: center;
     margin-right: 0px;
     flex-direction: row;
     justify-content: flex-start;
   }
+  .desktop12-chat2 {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 0px;
+  }
   .desktop12-frame237612 {
+    width: 100%;
     align-items: flex-start;
     justify-content: center;
   }
-  .desktop12-text211 {
+  .desktop12-text204 {
+    font-size: 4.5vw;
     text-align: left;
   }
   .desktop12-frame23735 {
     gap: 24px;
+    width: 100%;
+    position: 0px;
+    max-width: 680px;
+    align-self: center;
     align-items: center;
     margin-right: 0px;
     flex-direction: row;
     justify-content: flex-start;
   }
+  .desktop12-videoconference {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 0px;
+  }
   .desktop12-frame237613 {
+    width: 100%;
     align-items: flex-start;
     justify-content: center;
   }
-  .desktop12-text216 {
+  .desktop12-text209 {
+    font-size: 4.5vw;
     text-align: left;
   }
   .desktop12-frame23755 {
     gap: 24px;
+    width: 100%;
+    position: 0px;
+    max-width: 680px;
+    align-self: center;
     align-items: center;
     margin-right: 0px;
     flex-direction: row;
     justify-content: flex-start;
   }
+  .desktop12-chat {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 0px;
+  }
   .desktop12-frame237614 {
+    width: 100%;
     align-items: flex-start;
     justify-content: center;
   }
-  .desktop12-text221 {
+  .desktop12-text214 {
+    font-size: 4.5vw;
     text-align: left;
   }
   .desktop12-frame236031 {
@@ -6627,6 +6742,9 @@
   }
   .desktop12-frame16242 {
     width: 100%;
+  }
+  .desktop12-text219 {
+    color: rgb(255, 255, 255);
   }
   .desktop12-frame16251 {
     width: 100%;
@@ -6661,33 +6779,76 @@
     padding-bottom: 36px;
   }
   .desktop12-frame23644 {
-    padding: 24px;
+    padding: 16px;
+  }
+  .desktop12-frame23654 {
+    gap: 8px;
+    flex-direction: column;
+  }
+  .desktop12-text236 {
+    width: auto;
+  }
+  .desktop12-text238 {
+    font-size: 16px;
+  }
+  .desktop12-frame23642 {
+    flex-direction: column;
+  }
+  .desktop12-filefavisocolor {
+    margin-right: 0px;
+    margin-bottom: 16px;
+  }
+  .desktop12-frame23655 {
+    justify-content: center;
+  }
+  .desktop12-frame23648 {
+    justify-content: center;
+  }
+  .desktop12-text256 {
+    background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   }
   .desktop12-frame23746 {
     padding: 24px;
   }
-  .desktop12-text305 {
+  .desktop12-frame23645 {
+    flex-direction: column;
+  }
+  .desktop12-filefavisocolor1 {
+    margin-right: 0px;
+    margin-bottom: 16px;
+  }
+  .desktop12-frame23656 {
+    align-self: center;
+    justify-content: center;
+  }
+  .desktop12-frame236481 {
+    justify-content: center;
+  }
+  .desktop12-text287 {
+    background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
+  }
+  .desktop12-text297 {
     font-size: 24px;
   }
-  .desktop12-text307 {
+  .desktop12-text299 {
     font-size: 16px;
   }
   .desktop12-frame235941 {
     padding: 24px;
   }
-  .desktop12-text318 {
+  .desktop12-text310 {
     font-size: 24px;
   }
   .desktop12-frame235991 {
     width: 100%;
   }
-  .desktop12-text322 {
+  .desktop12-text314 {
     width: 100%;
   }
   .desktop12-frame16245 {
     width: 100%;
   }
-  .desktop12-text325 {
+  .desktop12-text317 {
     font-size: 15px;
   }
   .desktop12-frame56 {
@@ -6699,19 +6860,19 @@
     flex-wrap: wrap;
     justify-content: center;
   }
-  .desktop12-text326 {
+  .desktop12-text318 {
     width: auto;
   }
-  .desktop12-text328 {
+  .desktop12-text320 {
     width: auto;
   }
-  .desktop12-text329 {
+  .desktop12-text321 {
     width: auto;
   }
-  .desktop12-text331 {
+  .desktop12-text323 {
     width: auto;
   }
-  .desktop12-text332 {
+  .desktop12-text324 {
     width: auto;
   }
 }
