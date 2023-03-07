@@ -159,7 +159,7 @@
   justify-content: center;
 }
 .desktop12-text009 {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(255, 255, 255);
   height: auto;
   font-size: 18px;
   align-self: auto;
@@ -198,6 +198,13 @@
 }
 .desktop12-image11 {
   width: 100%;
+  position: relative;
+  max-width: 980px;
+  border-color: transparent;
+}
+.desktop12-image111 {
+  width: 100vw;
+  display: none;
   position: relative;
   max-width: 980px;
   border-color: transparent;
@@ -243,7 +250,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text011 {
+.desktop12-text010 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -259,7 +266,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text013 {
+.desktop12-text012 {
   color: rgb(255, 255, 255);
   width: 100%;
   height: auto;
@@ -316,7 +323,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.07999999821186066);
 }
-.desktop12-text017 {
+.desktop12-text016 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 48px;
@@ -356,7 +363,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text019 {
+.desktop12-text018 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -387,7 +394,7 @@
   flex-direction: column;
   background-color: rgba(255, 255, 255, 0.07999999821186066);
 }
-.desktop12-text024 {
+.desktop12-text023 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 48px;
@@ -419,7 +426,7 @@
   object-fit: cover;
   mix-blend-mode: color-burn;
 }
-.desktop12-text026 {
+.desktop12-text025 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -449,7 +456,7 @@
   flex-direction: column;
   background-color: rgba(255, 255, 255, 0.07999999821186066);
 }
-.desktop12-text031 {
+.desktop12-text030 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 48px;
@@ -481,7 +488,7 @@
   object-fit: cover;
   mix-blend-mode: color-burn;
 }
-.desktop12-text033 {
+.desktop12-text032 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -529,7 +536,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text038 {
+.desktop12-text037 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -544,7 +551,7 @@
   margin-bottom: 4px;
   text-decoration: none;
 }
-.desktop12-text040 {
+.desktop12-text039 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 36px;
@@ -559,7 +566,7 @@
   margin-bottom: 4px;
   text-decoration: none;
 }
-.desktop12-text042 {
+.desktop12-text041 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -627,7 +634,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text044 {
+.desktop12-text043 {
   color: rgba(130, 144, 159, 1);
   height: auto;
   font-size: 20px;
@@ -642,7 +649,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text046 {
+.desktop12-text045 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 36px;
@@ -657,7 +664,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text048 {
+.desktop12-text047 {
   color: rgba(43, 63, 83, 1);
   width: 100%;
   height: auto;
@@ -720,7 +727,7 @@
   margin-bottom: 24px;
   flex-direction: column;
 }
-.desktop12-text057 {
+.desktop12-text056 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -735,7 +742,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text058 {
+.desktop12-text057 {
   color: rgba(130, 144, 159, 1);
   width: 186px;
   height: auto;
@@ -793,7 +800,7 @@
   margin-bottom: 24px;
   flex-direction: column;
 }
-.desktop12-text060 {
+.desktop12-text059 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -808,7 +815,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text062 {
+.desktop12-text061 {
   color: rgba(130, 144, 159, 1);
   width: 186px;
   height: auto;
@@ -866,7 +873,7 @@
   margin-bottom: 24px;
   flex-direction: column;
 }
-.desktop12-text064 {
+.desktop12-text063 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -881,7 +888,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text066 {
+.desktop12-text065 {
   color: rgba(130, 144, 159, 1);
   width: 186px;
   height: auto;
@@ -967,7 +974,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text068 {
+.desktop12-text067 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -983,11 +990,27 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text070 {
+.desktop12-text069 {
   color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
   font-size: 36px;
+  align-self: flex-start;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 160%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.desktop12-text070 {
+  color: rgb(43, 63, 83);
+  width: 100%;
+  height: auto;
+  font-size: 20px;
   align-self: flex-start;
   font-style: Semi Bold;
   text-align: left;
@@ -1113,12 +1136,12 @@
 .desktop12-text081 {
   color: rgba(255, 255, 255, 1);
   height: auto;
-  font-size: 20px;
+  font-size: 16px;
   align-self: auto;
-  font-style: Bold;
+  font-style: normal;
   text-align: center;
   font-family: Inter;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 100%;
   font-stretch: normal;
   margin-right: 0;
@@ -1138,7 +1161,7 @@
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
-  font-size: 24px;
+  font-size: 20px;
   align-self: stretch;
   font-style: Bold;
   text-align: center;
@@ -1167,8 +1190,10 @@
 }
 .desktop12-rectangle11 {
   width: 100%;
+  height: 160px;
   position: relative;
   align-self: stretch;
+  object-fit: cover;
   border-color: transparent;
   border-radius: 4px;
 }
@@ -1215,12 +1240,12 @@
 .desktop12-text087 {
   color: rgba(255, 255, 255, 1);
   height: auto;
-  font-size: 20px;
+  font-size: 16px;
   align-self: auto;
-  font-style: Bold;
+  font-style: normal;
   text-align: center;
   font-family: Inter;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 100%;
   font-stretch: normal;
   margin-right: 0;
@@ -1240,7 +1265,7 @@
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
-  font-size: 24px;
+  font-size: 20px;
   align-self: stretch;
   font-style: Bold;
   text-align: center;
@@ -1270,8 +1295,10 @@
 }
 .desktop12-rectangle111 {
   width: 100%;
+  height: 160px;
   position: relative;
   align-self: stretch;
+  object-fit: cover;
   border-color: transparent;
   border-radius: 4px;
 }
@@ -1318,12 +1345,12 @@
 .desktop12-text093 {
   color: rgba(255, 255, 255, 1);
   height: auto;
-  font-size: 20px;
+  font-size: 16px;
   align-self: auto;
-  font-style: Bold;
+  font-style: normal;
   text-align: center;
   font-family: Inter;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 100%;
   font-stretch: normal;
   margin-right: 0;
@@ -1343,7 +1370,7 @@
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
-  font-size: 24px;
+  font-size: 20px;
   align-self: stretch;
   font-style: Bold;
   text-align: center;
@@ -1373,8 +1400,10 @@
 }
 .desktop12-rectangle112 {
   width: 100%;
+  height: 160px;
   position: relative;
   align-self: stretch;
+  object-fit: cover;
   border-color: transparent;
   border-radius: 4px;
 }
@@ -1725,8 +1754,15 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-image111 {
+.desktop12-image112 {
   width: 100%;
+  position: relative;
+  max-width: 980px;
+  border-color: transparent;
+}
+.desktop12-image113 {
+  width: 100vw;
+  display: none;
   position: relative;
   max-width: 980px;
   border-color: transparent;
@@ -1814,10 +1850,26 @@
   text-decoration: none;
 }
 .desktop12-text123 {
-  color: rgba(43, 63, 83, 1);
+  color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
   font-size: 36px;
+  align-self: flex-start;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 160%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.desktop12-text124 {
+  color: rgba(43, 63, 83, 1);
+  width: 100%;
+  height: auto;
+  font-size: 20px;
   align-self: auto;
   font-style: Semi Bold;
   text-align: left;
@@ -1829,7 +1881,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text128 {
+.desktop12-text129 {
   color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
@@ -1897,7 +1949,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text132 {
+.desktop12-text133 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 24px;
@@ -1912,7 +1964,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text133 {
+.desktop12-text134 {
   color: #82909f;
   height: auto;
   font-size: 14px;
@@ -1935,7 +1987,7 @@
   border-color: transparent;
   margin-bottom: 8px;
 }
-.desktop12-text134 {
+.desktop12-text135 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 15px;
@@ -1992,7 +2044,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text135 {
+.desktop12-text136 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 24px;
@@ -2007,7 +2059,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text136 {
+.desktop12-text137 {
   color: #82909f;
   height: auto;
   font-size: 14px;
@@ -2030,7 +2082,7 @@
   border-color: transparent;
   margin-bottom: 8px;
 }
-.desktop12-text137 {
+.desktop12-text138 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 15px;
@@ -2087,7 +2139,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text139 {
+.desktop12-text140 {
   color: rgb(43, 63, 83);
   height: auto;
   font-size: 24px;
@@ -2102,7 +2154,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text140 {
+.desktop12-text141 {
   color: #82909f;
   height: auto;
   font-size: 14px;
@@ -2125,7 +2177,7 @@
   border-color: transparent;
   margin-bottom: 8px;
 }
-.desktop12-text141 {
+.desktop12-text142 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 15px;
@@ -2206,7 +2258,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text143 {
+.desktop12-text144 {
   color: rgba(130, 144, 159, 1);
   width: 100%;
   height: auto;
@@ -2222,11 +2274,27 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text145 {
-  color: rgba(43, 63, 83, 1);
+.desktop12-text146 {
+  color: rgb(43, 63, 83);
   width: 100%;
   height: auto;
   font-size: 36px;
+  align-self: flex-start;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 160%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.desktop12-text147 {
+  color: rgba(43, 63, 83, 1);
+  width: 100%;
+  height: auto;
+  font-size: 20px;
   align-self: auto;
   font-style: Semi Bold;
   text-align: left;
@@ -2238,7 +2306,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text150 {
+.desktop12-text152 {
   color: rgba(43, 63, 83, 1);
   width: 100%;
   height: auto;
@@ -2300,7 +2368,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text152 {
+.desktop12-text154 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -2323,7 +2391,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text154 {
+.desktop12-text156 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -2338,7 +2406,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text156 {
+.desktop12-text158 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2383,7 +2451,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text158 {
+.desktop12-text160 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -2406,7 +2474,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text160 {
+.desktop12-text162 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -2421,7 +2489,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text162 {
+.desktop12-text164 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2465,7 +2533,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text164 {
+.desktop12-text166 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -2488,7 +2556,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text166 {
+.desktop12-text168 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 24px;
@@ -2503,7 +2571,7 @@
   margin-bottom: 8px;
   text-decoration: none;
 }
-.desktop12-text168 {
+.desktop12-text170 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2543,7 +2611,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text170 {
+.desktop12-text172 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 24px;
@@ -2597,7 +2665,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text172 {
+.desktop12-text174 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -2630,7 +2698,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text174 {
+.desktop12-text176 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2654,7 +2722,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text176 {
+.desktop12-text178 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2678,7 +2746,7 @@
   border-radius: 4px;
   margin-bottom: 12px;
 }
-.desktop12-text178 {
+.desktop12-text180 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2722,7 +2790,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text180 {
+.desktop12-text182 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -2755,7 +2823,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text182 {
+.desktop12-text184 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2779,7 +2847,7 @@
   border-radius: 999px;
   background-color: rgba(241, 241, 241, 1);
 }
-.desktop12-text184 {
+.desktop12-text186 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2803,7 +2871,7 @@
   border-radius: 4px;
   margin-bottom: 12px;
 }
-.desktop12-text186 {
+.desktop12-text188 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 14px;
@@ -2820,35 +2888,31 @@
 }
 .desktop12-frame2394 {
   width: 100%;
-  height: auto;
   display: flex;
   align-self: center;
   background: radial-gradient(50% 271.24% at 50% 100%, #367BC4 0%, #061829 100%);
   align-items: center;
-  flex-shrink: 0;
   padding-top: 80px;
-  border-color: transparent;
   padding-left: 48px;
   padding-right: 48px;
-  flex-direction: column;
+  flex-direction: row;
   padding-bottom: 80px;
-  justify-content: space-between;
+  justify-content: center;
 }
 .desktop12-frame23594 {
+  flex: 1;
   width: 100%;
-  height: auto;
   display: flex;
   padding: 48px;
   overflow: hidden;
   max-width: 1080px;
-  box-shadow: 0px 0px 8px 0px rgba(255, 255, 255, 0.07999999821186066) ;
   box-sizing: content-box;
   align-items: center;
   flex-shrink: 0;
   border-radius: 4px;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/frame%2023716-400h.webp");
+  background-image: url("public/playground_assets/frame%2023716-700h.webp");
 }
 .desktop12-frame23596 {
   width: 100%;
@@ -2888,7 +2952,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text188 {
+.desktop12-text190 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -2903,14 +2967,14 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text190 {
+.desktop12-text192 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
   align-self: flex-start;
-  font-style: W6;
+  font-style: normal;
   font-family: Inter;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 160%;
   font-stretch: normal;
   letter-spacing: 0.1rem;
@@ -2925,7 +2989,7 @@
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text194 {
+.desktop12-text196 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -2956,7 +3020,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text197 {
+.desktop12-text199 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -3058,7 +3122,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text198 {
+.desktop12-text200 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 16px;
@@ -3079,7 +3143,7 @@
   align-items: center;
   border-color: transparent;
 }
-.desktop12-text200 {
+.desktop12-text202 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 48px;
@@ -3136,7 +3200,7 @@
   margin-bottom: 8px;
   flex-direction: column;
 }
-.desktop12-text202 {
+.desktop12-text204 {
   color: rgba(255, 255, 255, 1);
   width: 100%;
   height: auto;
@@ -3152,7 +3216,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text207 {
+.desktop12-text209 {
   color: rgba(255, 255, 255, 1);
   width: 100%;
   height: auto;
@@ -3209,7 +3273,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text209 {
+.desktop12-text211 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3253,7 +3317,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text214 {
+.desktop12-text216 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3296,7 +3360,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text219 {
+.desktop12-text221 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3330,7 +3394,7 @@
   background-color: var(--dl-color-default-blue);
   background-image: linear-gradient(60deg, rgba(55, 125, 197, 1) 0%, rgba(1, 55, 146, 1) 100%);
 }
-.desktop12-text224 {
+.desktop12-text226 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 18px;
@@ -3370,7 +3434,7 @@
   justify-content: space-between;
   background-color: #ffffff;
 }
-.desktop12-text226 {
+.desktop12-text228 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -3448,7 +3512,7 @@
   border-color: transparent;
   margin-bottom: 10px;
 }
-.desktop12-text227 {
+.desktop12-text229 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 48px;
@@ -3463,7 +3527,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text229 {
+.desktop12-text231 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -3522,7 +3586,7 @@
   border-color: transparent;
   border-radius: 7.071067810058594px;
 }
-.desktop12-text231 {
+.desktop12-text233 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 12px;
@@ -3588,7 +3652,7 @@
   border-color: transparent;
   margin-bottom: 10px;
 }
-.desktop12-text238 {
+.desktop12-text240 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 48px;
@@ -3603,7 +3667,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text240 {
+.desktop12-text242 {
   color: rgba(43, 63, 83, 1);
   height: auto;
   font-size: 20px;
@@ -3682,7 +3746,7 @@
   margin-right: 10px;
   border-radius: 4px;
 }
-.desktop12-text242 {
+.desktop12-text244 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -3697,7 +3761,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text244 {
+.desktop12-text246 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 18px;
@@ -3750,7 +3814,7 @@
   margin-bottom: 8px;
   justify-content: flex-start;
 }
-.desktop12-text246 {
+.desktop12-text248 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 32px;
@@ -3782,7 +3846,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text248 {
+.desktop12-text250 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -3805,7 +3869,7 @@
   border-color: transparent;
   justify-content: flex-start;
 }
-.desktop12-text250 {
+.desktop12-text252 {
   color: transparent;
   font-size: 24px;
   align-self: auto;
@@ -3825,7 +3889,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.desktop12-text251 {
+.desktop12-text253 {
   color: transparent;
   font-size: 40px;
   align-self: auto;
@@ -3845,7 +3909,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.desktop12-text252 {
+.desktop12-text254 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -3874,7 +3938,7 @@
   justify-content: center;
   background-color: rgba(245, 245, 245, 1);
 }
-.desktop12-text254 {
+.desktop12-text256 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 14px;
@@ -3927,7 +3991,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text256 {
+.desktop12-text258 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3963,7 +4027,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text258 {
+.desktop12-text260 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -3999,7 +4063,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text260 {
+.desktop12-text262 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4039,7 +4103,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text261 {
+.desktop12-text263 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4089,7 +4153,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.desktop12-text262 {
+.desktop12-text264 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4143,7 +4207,7 @@
   justify-content: center;
   background-color: rgba(43, 62, 83, 1);
 }
-.desktop12-text263 {
+.desktop12-text265 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 18px;
@@ -4158,7 +4222,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text265 {
+.desktop12-text267 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -4187,7 +4251,7 @@
   border-radius: 4px;
   background-color: rgba(247, 247, 247, 1);
 }
-.desktop12-text267 {
+.desktop12-text269 {
   color: rgb(130, 144, 159);
   width: 100%;
   height: auto;
@@ -4259,7 +4323,7 @@
   margin-bottom: 8px;
   justify-content: flex-start;
 }
-.desktop12-text277 {
+.desktop12-text279 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 32px;
@@ -4291,7 +4355,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text279 {
+.desktop12-text281 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -4315,7 +4379,7 @@
   border-color: transparent;
   justify-content: flex-start;
 }
-.desktop12-text281 {
+.desktop12-text283 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 24px;
@@ -4330,7 +4394,7 @@
   margin-bottom: 4px;
   text-decoration: none;
 }
-.desktop12-text282 {
+.desktop12-text284 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 40px;
@@ -4345,7 +4409,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text283 {
+.desktop12-text285 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 16px;
@@ -4398,7 +4462,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text285 {
+.desktop12-text287 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -4434,7 +4498,7 @@
   position: relative;
   margin-right: 8px;
 }
-.desktop12-text287 {
+.desktop12-text289 {
   color: rgba(43, 62, 83, 1);
   height: auto;
   font-size: 18px;
@@ -4498,7 +4562,7 @@
   height: 20px;
   position: absolute;
 }
-.desktop12-text289 {
+.desktop12-text291 {
   color: rgba(234, 234, 234, 1);
   height: auto;
   font-size: 18px;
@@ -4561,7 +4625,7 @@
   height: 20px;
   position: absolute;
 }
-.desktop12-text291 {
+.desktop12-text293 {
   color: rgba(234, 234, 234, 1);
   height: auto;
   font-size: 18px;
@@ -4606,7 +4670,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.desktop12-text293 {
+.desktop12-text295 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4639,7 +4703,7 @@
   border-color: transparent;
   margin-bottom: 24px;
 }
-.desktop12-text294 {
+.desktop12-text296 {
   color: rgba(43, 62, 83, 1);
   width: 100%;
   height: auto;
@@ -4695,7 +4759,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.desktop12-text301 {
+.desktop12-text303 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 48px;
@@ -4717,7 +4781,7 @@
   border-color: transparent;
   flex-direction: column;
 }
-.desktop12-text303 {
+.desktop12-text305 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 28px;
@@ -4732,7 +4796,7 @@
   margin-bottom: -8px;
   text-decoration: none;
 }
-.desktop12-text305 {
+.desktop12-text307 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 20px;
@@ -4759,51 +4823,38 @@
 .desktop12-frame23941 {
   width: 100%;
   display: flex;
-  position: relative;
+  align-self: center;
   background: radial-gradient(50% 271.24% at 50% 100%, #367BC4 0%, #061829 100%);
   align-items: center;
-  flex-shrink: 0;
   padding-top: 80px;
-  border-color: transparent;
   padding-left: 48px;
-  margin-bottom: 0px;
   padding-right: 48px;
-  flex-direction: column;
+  flex-direction: row;
   padding-bottom: 80px;
   justify-content: center;
 }
 .desktop12-frame235941 {
+  flex: 1;
   width: 100%;
-  height: 385px;
   display: flex;
+  padding: 48px;
   overflow: hidden;
-  position: relative;
   max-width: 1080px;
-  box-shadow: 0px 0px 8px 0px rgba(255, 255, 255, 0.07999999821186066) ;
   box-sizing: content-box;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 0;
   border-radius: 4px;
   background-size: cover;
-  background-image: url("public/playground_assets/frame%2023716-400h.webp");
-}
-.desktop12-rectangle283 {
-  top: -0.0341796875px;
-  left: 1080px;
-  width: 385px;
-  height: 1080px;
-  position: absolute;
-  border-color: transparent;
+  justify-content: center;
+  background-image: url("public/playground_assets/frame%2023716-700h.webp");
 }
 .desktop12-frame235961 {
-  top: 141.0341796875px;
-  left: 48px;
-  width: 984px;
+  width: 100%;
   display: flex;
-  position: absolute;
   align-items: flex-end;
   flex-shrink: 0;
   border-color: transparent;
+  justify-content: space-between;
 }
 .desktop12-frame236011 {
   gap: 8px;
@@ -4835,7 +4886,7 @@
   border-width: 1px;
   border-radius: 4px;
 }
-.desktop12-text314 {
+.desktop12-text316 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 16px;
@@ -4850,14 +4901,14 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-text316 {
+.desktop12-text318 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
   align-self: flex-start;
-  font-style: W6;
+  font-style: normal;
   font-family: Inter;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 160%;
   font-stretch: normal;
   letter-spacing: 0.1rem;
@@ -4872,7 +4923,7 @@
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.1599999964237213);
 }
-.desktop12-text320 {
+.desktop12-text322 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -4903,7 +4954,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text323 {
+.desktop12-text325 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -4929,21 +4980,25 @@
 }
 .desktop12-frame56 {
   display: flex;
-  padding: 36px 0;
   position: relative;
   align-self: stretch;
   align-items: center;
+  padding-top: 36px ;
   border-color: transparent;
+  padding-left: 48px;
   margin-bottom: 0px;
+  padding-right: 48px;
   flex-direction: column;
+  padding-bottom: 36px ;
   justify-content: center;
   background-color: var(--dl-color-default-black2);
   background-image: linear-gradient(150deg, rgba(43, 62, 83, 1) 0%, rgba(0, 0, 0, 1) 100%);
 }
 .desktop12-frame1626 {
-  width: 1080px;
+  width: 100%;
   display: flex;
   position: relative;
+  max-width: 1080px;
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
@@ -4953,6 +5008,7 @@
 .desktop12-frame23667 {
   display: flex;
   position: relative;
+  flex-wrap: wrap;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;
@@ -4965,13 +5021,14 @@
   object-fit: cover;
 }
 .desktop12-frame1621 {
+  gap: 16px;
   display: flex;
   position: relative;
   align-items: center;
   border-color: transparent;
   justify-content: center;
 }
-.desktop12-text324 {
+.desktop12-text326 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -4982,8 +5039,6 @@
   font-weight: 700;
   line-height: 100%;
   font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
   text-decoration: none;
 }
 .desktop12-rectangle14 {
@@ -4991,9 +5046,8 @@
   height: 9px;
   position: relative;
   border-color: transparent;
-  margin-right: 16px;
 }
-.desktop12-text326 {
+.desktop12-text328 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -5004,8 +5058,6 @@
   font-weight: 700;
   line-height: 100%;
   font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
   text-decoration: none;
 }
 .desktop12-rectangle17 {
@@ -5013,9 +5065,8 @@
   height: 9px;
   position: relative;
   border-color: transparent;
-  margin-right: 16px;
 }
-.desktop12-text327 {
+.desktop12-text329 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5026,8 +5077,6 @@
   font-weight: 700;
   line-height: 100%;
   font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
   text-decoration: none;
 }
 .desktop12-rectangle20 {
@@ -5035,9 +5084,8 @@
   height: 9px;
   position: relative;
   border-color: transparent;
-  margin-right: 16px;
 }
-.desktop12-text329 {
+.desktop12-text331 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -5048,8 +5096,6 @@
   font-weight: 700;
   line-height: 100%;
   font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
   text-decoration: none;
 }
 .desktop12-rectangle19 {
@@ -5057,9 +5103,8 @@
   height: 9px;
   position: relative;
   border-color: transparent;
-  margin-right: 16px;
 }
-.desktop12-text330 {
+.desktop12-text332 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5070,8 +5115,6 @@
   font-weight: 700;
   line-height: 100%;
   font-stretch: normal;
-  margin-right: 16px;
-  margin-bottom: 0;
   text-decoration: none;
 }
 .desktop12-rectangle21 {
@@ -5101,7 +5144,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text332 {
+.desktop12-text334 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -5138,8 +5181,8 @@
   border-radius: 999px;
   justify-content: center;
 }
-.desktop12-text333 {
-  color: rgba(255, 255, 255, 1);
+.desktop12-text335 {
+  color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
   align-self: auto;
@@ -5169,7 +5212,7 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.desktop12-text335 {
+.desktop12-text336 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5207,7 +5250,7 @@
   background-color: var(--dl-color-default-red);
   background-image: linear-gradient(60deg, rgba(199, 51, 103, 1) 0%, rgba(253, 48, 91, 1) 100%);
 }
-.desktop12-text337 {
+.desktop12-text338 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 14px;
@@ -5264,7 +5307,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.desktop12-text339 {
+.desktop12-text340 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5286,7 +5329,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text341 {
+.desktop12-text342 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5308,7 +5351,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text343 {
+.desktop12-text344 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5330,7 +5373,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text345 {
+.desktop12-text346 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -5352,7 +5395,7 @@
   border-color: transparent;
   margin-right: 16px;
 }
-.desktop12-text346 {
+.desktop12-text347 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -5390,7 +5433,7 @@
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
-.desktop12-text348 {
+.desktop12-text349 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -5427,8 +5470,8 @@
   border-radius: 999px;
   justify-content: center;
 }
-.desktop12-text349 {
-  color: rgba(255, 255, 255, 1);
+.desktop12-text350 {
+  color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
   align-self: auto;
@@ -5465,13 +5508,13 @@
   .desktop12-frame23637 {
     margin-bottom: 24px;
   }
-  .desktop12-text019 {
+  .desktop12-text018 {
     font-size: 20px;
   }
-  .desktop12-text026 {
+  .desktop12-text025 {
     font-size: 20px;
   }
-  .desktop12-text033 {
+  .desktop12-text032 {
     font-size: 20px;
   }
   .desktop12-frame23666 {
@@ -5489,6 +5532,9 @@
   }
   .desktop12-image06 {
     width: 200px;
+  }
+  .desktop12-text069 {
+    font-size: 28px;
   }
   .desktop12-text070 {
     font-size: 28px;
@@ -5668,6 +5714,9 @@
   .desktop12-text123 {
     font-size: 28px;
   }
+  .desktop12-text124 {
+    font-size: 28px;
+  }
   .desktop12-frame23665 {
     padding-top: 64px;
     padding-bottom: 64px;
@@ -5680,7 +5729,10 @@
   .desktop12-image09 {
     width: 200px;
   }
-  .desktop12-text145 {
+  .desktop12-text146 {
+    font-size: 28px;
+  }
+  .desktop12-text147 {
     font-size: 28px;
   }
   .desktop12-frame16331 {
@@ -5694,6 +5746,9 @@
   }
   .desktop12-image31 {
     height: auto;
+  }
+  .desktop12-frame23594 {
+    background-position: 70% 0%;
   }
   .desktop12-frame23596 {
     gap: 24px;
@@ -5745,6 +5800,19 @@
     padding-bottom: 64px;
     justify-content: center;
   }
+  .desktop12-frame235941 {
+    background-position: 70% 0%;
+  }
+  .desktop12-frame235961 {
+    gap: 24px;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .desktop12-frame23667 {
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
   .desktop12-frame16211 {
     display: none;
   }
@@ -5792,7 +5860,7 @@
     padding-bottom: 16px;
     justify-content: flex-start;
   }
-  .desktop12-text017 {
+  .desktop12-text016 {
     align-self: center;
     margin-bottom: 0px;
   }
@@ -5802,7 +5870,7 @@
   .desktop12-frame2376 {
     align-self: center;
   }
-  .desktop12-text019 {
+  .desktop12-text018 {
     text-align: left;
   }
   .desktop12-frame2373 {
@@ -5816,14 +5884,14 @@
     padding-bottom: 16px;
     justify-content: flex-start;
   }
-  .desktop12-text024 {
+  .desktop12-text023 {
     align-self: center;
     margin-bottom: 0px;
   }
   .desktop12-image01 {
     margin-top: 16px;
   }
-  .desktop12-text026 {
+  .desktop12-text025 {
     align-self: center;
     text-align: left;
   }
@@ -5838,14 +5906,14 @@
     padding-bottom: 16px;
     justify-content: flex-start;
   }
-  .desktop12-text031 {
+  .desktop12-text030 {
     align-self: center;
     margin-bottom: 0px;
   }
   .desktop12-image02 {
     margin-top: 36px;
   }
-  .desktop12-text033 {
+  .desktop12-text032 {
     align-self: center;
     text-align: left;
   }
@@ -5868,10 +5936,10 @@
   .desktop12-frame2407 {
     width: 100%;
   }
-  .desktop12-text057 {
+  .desktop12-text056 {
     width: 100%;
   }
-  .desktop12-text058 {
+  .desktop12-text057 {
     width: 100%;
   }
   .desktop12-frame1631 {
@@ -5880,10 +5948,10 @@
   .desktop12-image04 {
     width: 180px;
   }
-  .desktop12-text060 {
+  .desktop12-text059 {
     width: 100%;
   }
-  .desktop12-text062 {
+  .desktop12-text061 {
     width: 100%;
   }
   .desktop12-frame1633 {
@@ -5892,10 +5960,10 @@
   .desktop12-image05 {
     width: 180px;
   }
-  .desktop12-text064 {
+  .desktop12-text063 {
     width: 100%;
   }
-  .desktop12-text066 {
+  .desktop12-text065 {
     width: 100%;
   }
   .desktop12-frame1637 {
@@ -5910,7 +5978,11 @@
     margin-right: 0px;
     margin-bottom: 16px;
   }
-  .desktop12-text068 {
+  .desktop12-text067 {
+    text-align: center;
+  }
+  .desktop12-text069 {
+    font-size: 24px;
     text-align: center;
   }
   .desktop12-text070 {
@@ -5971,7 +6043,11 @@
     font-size: 24px;
     text-align: center;
   }
-  .desktop12-text128 {
+  .desktop12-text124 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .desktop12-text129 {
     text-align: center;
   }
   .desktop12-frame23649 {
@@ -5994,14 +6070,18 @@
     margin-right: 0px;
     margin-bottom: 16px;
   }
-  .desktop12-text143 {
+  .desktop12-text144 {
     text-align: center;
   }
-  .desktop12-text145 {
+  .desktop12-text146 {
     font-size: 24px;
     text-align: center;
   }
-  .desktop12-text150 {
+  .desktop12-text147 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .desktop12-text152 {
     text-align: center;
   }
   .desktop12-frame23679 {
@@ -6021,17 +6101,23 @@
     padding-right: 24px;
     padding-bottom: 64px;
   }
+  .desktop12-frame23601 {
+    margin-right: 0px;
+  }
+  .desktop12-text192 {
+    font-size: 28px;
+  }
   .desktop12-frame236762 {
     padding-left: 24px;
     padding-right: 24px;
   }
-  .desktop12-text209 {
+  .desktop12-text211 {
     font-size: 14px;
   }
-  .desktop12-text214 {
+  .desktop12-text216 {
     font-size: 14px;
   }
-  .desktop12-text219 {
+  .desktop12-text221 {
     font-size: 14px;
   }
   .desktop12-frame236031 {
@@ -6098,6 +6184,7 @@
   .desktop12-frame2400 {
     padding-left: 24px;
     padding-right: 24px;
+    background-position: 60% 0%;
   }
   .desktop12-frame23941 {
     padding-top: 64px;
@@ -6105,20 +6192,31 @@
     padding-right: 24px;
     padding-bottom: 64px;
   }
+  .desktop12-frame236011 {
+    margin-right: 0px;
+  }
+  .desktop12-text318 {
+    font-size: 28px;
+  }
+  .desktop12-frame56 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
   .desktop12-container11 {
     display: none;
   }
 }
 @media(max-width: 479px) {
   .desktop12-frame2380 {
-    height: 640px;
+    height: 580px;
     padding-top: 36px;
     padding-left: 16px;
     padding-right: 16px;
     padding-bottom: 36px;
   }
   .desktop12-rectangle28 {
-    object-position: center;
+    height: 100%;
+    object-position: 70% 0%;
   }
   .desktop12-frame2377 {
     margin-bottom: 16px;
@@ -6130,16 +6228,38 @@
     font-size: 16px;
   }
   .desktop12-frame23603 {
-    gap: 16px;
+    gap: 8px;
     width: 100%;
     align-items: flex-start;
-    flex-direction: column;
+    flex-direction: row;
   }
   .desktop12-frame1624 {
     width: 100%;
+    height: auto;
+    padding-top: 16px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 16px;
+  }
+  .desktop12-text008 {
+    color: transparent;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 100%;
+    margin-right: 8px;
+    background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   }
   .desktop12-frame1625 {
     width: 100%;
+    padding-top: 16px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 16px;
+  }
+  .desktop12-text009 {
+    font-size: 14px;
+    margin-right: 8px;
   }
   .desktop12-frame23677 {
     padding-top: 36px;
@@ -6147,11 +6267,18 @@
     padding-right: 16px;
     padding-bottom: 36px;
   }
+  .desktop12-image11 {
+    display: none;
+  }
+  .desktop12-image111 {
+    width: 100%;
+    display: block;
+  }
   .desktop12-frame2401 {
     padding-top: 36px;
     padding-bottom: 36px;
   }
-  .desktop12-text013 {
+  .desktop12-text012 {
     font-size: 24px;
   }
   .desktop12-frame2374 {
@@ -6159,7 +6286,7 @@
     padding-left: 16px;
     justify-content: flex-start;
   }
-  .desktop12-text017 {
+  .desktop12-text016 {
     font-size: 24px;
   }
   .desktop12-frame1 {
@@ -6171,7 +6298,7 @@
     width: 80px;
     margin-top: 0px;
   }
-  .desktop12-text019 {
+  .desktop12-text018 {
     font-size: 16px;
   }
   .desktop12-frame2373 {
@@ -6179,7 +6306,7 @@
     padding-left: 16px;
     justify-content: flex-start;
   }
-  .desktop12-text024 {
+  .desktop12-text023 {
     font-size: 24px;
   }
   .desktop12-frame11 {
@@ -6191,14 +6318,14 @@
     width: 80px;
     margin-top: 0px;
   }
-  .desktop12-text026 {
+  .desktop12-text025 {
     font-size: 16px;
   }
   .desktop12-frame23751 {
     padding-left: 16px;
     justify-content: flex-start;
   }
-  .desktop12-text031 {
+  .desktop12-text030 {
     font-size: 24px;
   }
   .desktop12-frame12 {
@@ -6210,7 +6337,7 @@
     width: 80px;
     margin-top: var(--dl-space-space-halfunit);
   }
-  .desktop12-text033 {
+  .desktop12-text032 {
     font-size: 16px;
   }
   .desktop12-container02 {
@@ -6219,13 +6346,13 @@
   .desktop12-frame2403 {
     width: auto;
   }
-  .desktop12-text038 {
+  .desktop12-text037 {
     font-size: 4.5vw;
   }
-  .desktop12-text040 {
-    font-size: 12vw;
+  .desktop12-text039 {
+    font-size: 36px;
   }
-  .desktop12-text042 {
+  .desktop12-text041 {
     font-size: 4.5vw;
   }
   .desktop12-frame23666 {
@@ -6234,7 +6361,7 @@
     padding-right: 16px;
     padding-bottom: 36px;
   }
-  .desktop12-text046 {
+  .desktop12-text045 {
     font-size: 24px;
   }
   .desktop12-frame1630 {
@@ -6248,9 +6375,9 @@
   .desktop12-image03 {
     width: 140px;
   }
-  .desktop12-text057 {
+  .desktop12-text056 {
     color: rgb(43, 63, 83);
-    font-size: 20px;
+    font-size: 18px;
     font-family: Lexend;
     font-weight: 500;
     line-height: 120%;
@@ -6267,8 +6394,8 @@
   .desktop12-image04 {
     width: 140px;
   }
-  .desktop12-text060 {
-    font-size: 20px;
+  .desktop12-text059 {
+    font-size: 18px;
   }
   .desktop12-frame1633 {
     width: 100%;
@@ -6281,11 +6408,20 @@
   .desktop12-image05 {
     width: 140px;
   }
-  .desktop12-text064 {
-    font-size: 20px;
+  .desktop12-text063 {
+    font-size: 18px;
+  }
+  .desktop12-text069 {
+    color: rgb(43, 63, 83);
+    font-size: 36px;
   }
   .desktop12-text070 {
+    color: rgb(43, 63, 83);
     font-size: 4.5vw;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 160%;
+    text-decoration: none;
   }
   .desktop12-text074 {
     font-size: 12px;
@@ -6298,7 +6434,16 @@
     margin-bottom: 8px;
   }
   .desktop12-text079 {
-    font-size: 4.5vw;
+    font-size: 28px;
+  }
+  .desktop12-text083 {
+    font-size: 20px;
+  }
+  .desktop12-text089 {
+    font-size: 20px;
+  }
+  .desktop12-text095 {
+    font-size: 20px;
   }
   .desktop12-frame23620 {
     flex-direction: column;
@@ -6308,12 +6453,27 @@
     margin-bottom: 8px;
   }
   .desktop12-text099 {
-    font-size: 4.5vw;
+    font-size: 28px;
+  }
+  .desktop12-image112 {
+    display: none;
+  }
+  .desktop12-image113 {
+    width: 100%;
+    display: block;
   }
   .desktop12-text123 {
+    color: rgb(43, 63, 83);
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 160%;
+    text-decoration: none;
+  }
+  .desktop12-text124 {
     font-size: 4.5vw;
   }
-  .desktop12-text128 {
+  .desktop12-text129 {
     font-size: 12px;
   }
   .desktop12-frame23649 {
@@ -6324,11 +6484,28 @@
     padding-left: 16px;
     padding-right: 16px;
   }
-  .desktop12-text145 {
+  .desktop12-text146 {
+    color: rgb(43, 63, 83);
+    font-size: 36px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 160%;
+    text-decoration: none;
+  }
+  .desktop12-text147 {
     font-size: 4.5vw;
   }
-  .desktop12-text150 {
+  .desktop12-text152 {
     font-size: 12px;
+  }
+  .desktop12-text156 {
+    font-size: 28px;
+  }
+  .desktop12-text162 {
+    font-size: 28px;
+  }
+  .desktop12-text168 {
+    font-size: 28px;
   }
   .desktop12-frame23772 {
     flex-direction: column;
@@ -6337,6 +6514,27 @@
   .desktop12-vector2 {
     margin-right: 0px;
     margin-bottom: 8px;
+  }
+  .desktop12-text172 {
+    font-size: 28px;
+  }
+  .desktop12-frame23594 {
+    padding: 24px;
+  }
+  .desktop12-text192 {
+    font-size: 24px;
+  }
+  .desktop12-frame23599 {
+    width: 100%;
+  }
+  .desktop12-text196 {
+    width: 100%;
+  }
+  .desktop12-frame16241 {
+    width: 100%;
+  }
+  .desktop12-text199 {
+    font-size: 15px;
   }
   .desktop12-frame236762 {
     padding-left: 0px;
@@ -6353,7 +6551,7 @@
   .desktop12-image10 {
     width: 200px;
   }
-  .desktop12-text200 {
+  .desktop12-text202 {
     font-size: 36px;
   }
   .desktop12-frame23690 {
@@ -6366,7 +6564,7 @@
     margin-right: 0x;
     margin-bottom: -30px;
   }
-  .desktop12-text202 {
+  .desktop12-text204 {
     font-size: 24px;
   }
   .desktop12-frame16233 {
@@ -6387,7 +6585,7 @@
     align-items: flex-start;
     justify-content: center;
   }
-  .desktop12-text209 {
+  .desktop12-text211 {
     text-align: left;
   }
   .desktop12-frame23735 {
@@ -6401,7 +6599,7 @@
     align-items: flex-start;
     justify-content: center;
   }
-  .desktop12-text214 {
+  .desktop12-text216 {
     text-align: left;
   }
   .desktop12-frame23755 {
@@ -6415,7 +6613,7 @@
     align-items: flex-start;
     justify-content: center;
   }
-  .desktop12-text219 {
+  .desktop12-text221 {
     text-align: left;
   }
   .desktop12-frame236031 {
@@ -6466,10 +6664,52 @@
   .desktop12-frame23746 {
     padding: 24px;
   }
-  .desktop12-text303 {
+  .desktop12-text305 {
     font-size: 24px;
   }
-  .desktop12-text305 {
+  .desktop12-text307 {
     font-size: 16px;
+  }
+  .desktop12-frame235941 {
+    padding: 24px;
+  }
+  .desktop12-text318 {
+    font-size: 24px;
+  }
+  .desktop12-frame235991 {
+    width: 100%;
+  }
+  .desktop12-text322 {
+    width: 100%;
+  }
+  .desktop12-frame16245 {
+    width: 100%;
+  }
+  .desktop12-text325 {
+    font-size: 15px;
+  }
+  .desktop12-frame56 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .desktop12-frame1621 {
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .desktop12-text326 {
+    width: auto;
+  }
+  .desktop12-text328 {
+    width: auto;
+  }
+  .desktop12-text329 {
+    width: auto;
+  }
+  .desktop12-text331 {
+    width: auto;
+  }
+  .desktop12-text332 {
+    width: auto;
   }
 }
