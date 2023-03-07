@@ -1223,7 +1223,7 @@
 }
 .form-div {
   width: 100%;
-  height: 1000px;
+  height: 940px;
   max-width: 980px;
   margin-bottom: 64px;
 }
@@ -1240,6 +1240,9 @@
   }
   .form-frame2375 {
     flex: 1;
+  }
+  .form-div {
+    margin-bottom: 36px;
   }
 }
 @media(max-width: 767px) {
