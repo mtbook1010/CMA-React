@@ -1087,6 +1087,7 @@
   justify-content: center;
 }
 .form-frame2374 {
+  flex: 1;
   display: flex;
   padding: 24px;
   position: relative;
@@ -1132,6 +1133,7 @@
   text-decoration: none;
 }
 .form-frame2373 {
+  flex: 1;
   display: flex;
   padding: 24px;
   position: relative;
@@ -1176,6 +1178,7 @@
   text-decoration: none;
 }
 .form-frame2375 {
+  flex: 1;
   display: flex;
   padding: 24px;
   position: relative;
