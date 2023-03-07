@@ -6590,6 +6590,9 @@
   }
   .desktop12-frame23594 {
     padding: 24px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
   }
   .desktop12-text185 {
     font-size: 24px;
@@ -6807,6 +6810,9 @@
   .desktop12-text256 {
     background-image: linear-gradient(88.68deg, rgb(55, 125, 197) 0%, rgb(1, 55, 146) 100%);
   }
+  .desktop12-text257 {
+    font-size: 14px;
+  }
   .desktop12-frame23746 {
     padding: 24px;
   }
@@ -6874,5 +6880,8 @@
   }
   .desktop12-text324 {
     width: auto;
+  }
+  .desktop12-text330 {
+    font-size: 12px;
   }
 }
