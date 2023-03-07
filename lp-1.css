@@ -2110,6 +2110,7 @@
   width: 100%;
   height: 160px;
   position: relative;
+  align-self: stretch;
   object-fit: cover;
   border-color: transparent;
   border-radius: 4px;
@@ -4156,6 +4157,7 @@
   justify-content: center;
 }
 .lp1-frame23745 {
+  flex: 1;
   display: flex;
   padding: 24px;
   position: relative;
@@ -4201,6 +4203,7 @@
   text-decoration: none;
 }
 .lp1-frame23735 {
+  flex: 1;
   display: flex;
   padding: 24px;
   position: relative;
@@ -4245,6 +4248,7 @@
   text-decoration: none;
 }
 .lp1-frame23755 {
+  flex: 1;
   display: flex;
   padding: 24px;
   position: relative;
@@ -6173,10 +6177,7 @@
     margin-bottom: 8px;
   }
   .lp1-text093 {
-    width: auto;
     font-size: 24px;
-    align-self: flex-start;
-    text-align: left;
   }
   .lp1-text095 {
     text-align: left;
@@ -6394,7 +6395,6 @@
     flex: 0 0 auto;
     width: auto;
     height: 56px;
-    padding: 24px;
     padding-top: 16px;
     padding-left: 24px;
     padding-right: 24px;
@@ -6763,8 +6763,6 @@
   .lp1-frame23745 {
     gap: 24px;
     width: 100%;
-    position: 0px;
-    max-width: 680px;
     align-self: center;
     align-items: center;
     margin-right: 0px;
@@ -6788,8 +6786,6 @@
   .lp1-frame23735 {
     gap: 24px;
     width: 100%;
-    position: 0px;
-    max-width: 680px;
     align-self: center;
     align-items: center;
     margin-right: 0px;
@@ -6813,8 +6809,6 @@
   .lp1-frame23755 {
     gap: 24px;
     width: 100%;
-    position: 0px;
-    max-width: 680px;
     align-self: center;
     align-items: center;
     margin-right: 0px;

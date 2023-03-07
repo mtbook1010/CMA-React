@@ -155,20 +155,25 @@
               </div>
             </div>
           </div>
-          <div>
-            <dangerous-html
-              html="<!-- Begin TimeRex Widget -->
-<div id='timerex_calendar' data-url='https://timerex.net/s/shoma-yamamoto_2a19/e374de99'></div>
-
+        </div>
+        <div class="form-div">
+          <dangerous-html
+            html="<div class='form_wrap'>
+          <!-- Begin TimeRex Widget -->
+<div id='timerex_calendar' data-url='https://timerex.net/s/shoma-yamamoto_2a19/e374de99
+' style='width: 100%; overflow-x: auto; background-color: transparent;'><div style='width: 100%; min-width: 550px; max-width: 980px; margin: 0 auto; background-color: white;'><iframe src='https://timerex.net/s/shoma-yamamoto_2a19/e374de99/embed?disable_logo=1&amp;primary_color=%23054bb4&amp;order_id=8mv5glr8jpo' class='timerex-calendar' width='100%' frameborder='0' style='border: none; min-height: 600px; overflow: hidden; height: 1189px;' id='iFrameResizer0' scrolling='no'></iframe></div></div>
 <script id='timerex_embed' src='https://asset.timerex.net/js/embed.js'></script>
-
 <script type='text/javascript'>
-  TimerexCalendar();
+  TimerexCalendar({
+    primary_color: '#054bb4',
+    disable_logo: 'true',
+    url_params: Object.assign({
+      order_id: Math.random().toString(32).substring(2),
+    }, []),
+  });
 </script>
-<!-- End TimeRex Widget -->
-"
-            ></dangerous-html>
-          </div>
+<!-- End TimeRex Widget --></div>"
+          ></dangerous-html>
         </div>
         <div class="header-frame23696">
           <div class="header-frame1625">
@@ -182,7 +187,11 @@
                 src="public/playground_assets/cma-logos.svg"
                 class="header-image"
               />
-              <img class="header-image1" />
+              <img
+                alt="image"
+                src="/playground_assets/menu.svg"
+                class="header-image1"
+              />
               <div class="header-frame23590">
                 <div class="header-frame1621">
                   <a href="#s1" class="header-text02"><span>3つの強み</span></a>
@@ -288,7 +297,10 @@
                     <span class="footer-text22">
                       <span>まずは無料相談へ</span>
                     </span>
-                    <img class="footer-vector1-stroke" />
+                    <img
+                      src="public/playground_assets/vector19stroke1561-t5h.svg"
+                      class="footer-vector1-stroke"
+                    />
                   </div>
                 </div>
               </div>
