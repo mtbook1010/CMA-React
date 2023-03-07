@@ -1757,13 +1757,13 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.desktop12-image11 {
+.desktop12-image345 {
   width: 100%;
   position: relative;
   max-width: 980px;
   border-color: transparent;
 }
-.desktop12-image111 {
+.desktop12-image346 {
   width: 100vw;
   display: none;
   position: relative;
@@ -6521,10 +6521,10 @@
   .desktop12-text097 {
     font-size: 28px;
   }
-  .desktop12-image11 {
+  .desktop12-image345 {
     display: none;
   }
-  .desktop12-image111 {
+  .desktop12-image346 {
     width: 100%;
     display: block;
   }
