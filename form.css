@@ -1229,7 +1229,7 @@
 }
 @media(max-width: 991px) {
   .form-frame23676 {
-    padding-top: 64px;
+    padding-top: 140px;
     padding-bottom: 64px;
   }
   .form-frame2374 {
@@ -1262,6 +1262,7 @@
 }
 @media(max-width: 479px) {
   .form-frame23676 {
+    padding-top: 120px;
     padding-left: 0px;
     padding-right: 0px;
   }
