@@ -34,9 +34,13 @@
   width: 100%;
   height: 100%;
   position: absolute;
-  background-size: cover;
-  background-image: 92b66c86-16bb-4faa-9e7a-fe1422d6bd8e;
-  background-position: center;
+}
+.desktop12-image1 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: relative;
+  object-fit: cover;
 }
 .desktop12-frame2375 {
   width: 100%;
@@ -196,7 +200,7 @@
   justify-content: center;
   background-color: rgba(255, 249, 251, 1);
 }
-.desktop12-image1 {
+.desktop12-image11 {
   width: 100%;
   display: block;
   position: relative;
@@ -5515,8 +5519,8 @@
     align-self: center;
     justify-content: center;
   }
-  .desktop12-container01 {
-    background-position: center;
+  .desktop12-image1 {
+    object-position: 70% 0%;
   }
   .desktop12-frame2401 {
     padding-top: 64px;
@@ -5842,8 +5846,8 @@
     padding-left: 24px;
     padding-right: 24px;
   }
-  .desktop12-container01 {
-    background-position: 70% 0%;
+  .desktop12-image1 {
+    object-position: 70% 0%;
   }
   .desktop12-text {
     font-size: 48px;
@@ -6288,8 +6292,12 @@
     padding-bottom: 36px;
   }
   .desktop12-container01 {
-    height: 100%;
-    background-position: 70% 0%;
+    height: 398px;
+    overflow: hidden;
+  }
+  .desktop12-image1 {
+    height: 400px;
+    object-position: 70% 0%;
   }
   .desktop12-frame2377 {
     margin-bottom: 16px;
@@ -6343,8 +6351,8 @@
     padding-right: 16px;
     padding-bottom: 36px;
   }
-  .desktop12-image1 {
-    display: none;
+  .desktop12-image11 {
+    width: 200px;
   }
   .desktop12-image1-1 {
     width: 100%;
@@ -6659,9 +6667,6 @@
   .desktop12-frame236061 {
     width: 140px;
     height: 140px;
-  }
-  .desktop12-image11 {
-    width: 200px;
   }
   .desktop12-text195 {
     font-size: 36px;
