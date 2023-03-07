@@ -200,7 +200,7 @@
   justify-content: center;
   background-color: rgba(255, 249, 251, 1);
 }
-.desktop12-image11 {
+.desktop12-img-dnjasd {
   width: 100%;
   display: block;
   position: relative;
@@ -6351,8 +6351,8 @@
     padding-right: 16px;
     padding-bottom: 36px;
   }
-  .desktop12-image11 {
-    width: 200px;
+  .desktop12-img-dnjasd {
+    display: none;
   }
   .desktop12-image1-1 {
     width: 100%;
@@ -6667,6 +6667,9 @@
   .desktop12-frame236061 {
     width: 140px;
     height: 140px;
+  }
+  .desktop12-image11 {
+    width: 200px;
   }
   .desktop12-text195 {
     font-size: 36px;
