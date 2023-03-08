@@ -213,8 +213,8 @@
   -webkit-text-fill-color: transparent;
 }
 .header-vector1-stroke {
-  width: 7px;
-  height: 12px;
+  width: 16px;
+  height: 16px;
   position: relative;
 }
 .header-frame16251 {
@@ -428,7 +428,7 @@
   border-radius: 4px;
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/frame%20237161-1100w.webp");
+  background-image: 92b66c86-16bb-4faa-9e7a-fe1422d6bd8e;
   background-repeat: no-repeat;
   background-position: center;
 }
