@@ -1804,6 +1804,9 @@
     padding-left: 0px;
     padding-right: 0px;
   }
+  .form-container1 {
+    height: auto;
+  }
   .form-frame2397 {
     padding-left: 16px;
     padding-right: 16px;
@@ -1907,5 +1910,9 @@
   .form-text17 {
     font-size: 4.5vw;
     text-align: left;
+  }
+  .form-div {
+    flex: 0 0 auto;
+    height: 980px;
   }
 }
