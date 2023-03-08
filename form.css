@@ -1748,8 +1748,7 @@
 .form-text22 {
   color: rgb(43, 63, 83);
   height: auto;
-  display: none;
-  font-size: 48px;
+  font-size: 24px;
   align-self: auto;
   font-style: Semi Bold;
   text-align: center;
@@ -1757,24 +1756,22 @@
   font-weight: 700;
   line-height: 120%;
   font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
+  margin-bottom: 12px;
   text-decoration: none;
 }
 .form-text23 {
-  color: rgb(43, 63, 83);
+  color: rgb(233, 61, 97);
   height: auto;
-  display: none;
-  font-size: 48px;
-  align-self: auto;
+  font-size: 16px;
+  align-self: center;
   font-style: Semi Bold;
   text-align: center;
   font-family: Inter;
-  font-weight: 700;
-  line-height: 120%;
+  font-weight: 400;
+  line-height: 160%;
   font-stretch: normal;
   margin-right: 0;
-  margin-bottom: 0;
+  margin-bottom: 24px;
   text-decoration: none;
 }
 .form-div {
@@ -1814,28 +1811,6 @@
     height: 1400px;
     padding-left: 16px;
     padding-right: 16px;
-  }
-  .form-text22 {
-    color: rgb(43, 63, 83);
-    display: flex;
-    font-size: 24px;
-    font-family: Inter;
-    font-weight: 700;
-    line-height: 120%;
-    margin-bottom: 12px;
-    text-decoration: none;
-  }
-  .form-text23 {
-    color: rgb(233, 61, 97);
-    display: flex;
-    font-size: 16px;
-    font-style: normal;
-    font-family: Inter;
-    font-weight: 400;
-    line-height: 160%;
-    margin-bottom: 24px;
-    flex-direction: column;
-    text-decoration: none;
   }
   .form-div {
     width: 100%;
