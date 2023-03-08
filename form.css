@@ -34,9 +34,13 @@
   border-color: transparent;
   justify-content: space-between;
 }
+.header-navlink {
+  display: contents;
+}
 .header-image {
   width: 352px;
   object-fit: cover;
+  text-decoration: none;
 }
 .header-image1 {
   width: 100px;
@@ -172,7 +176,7 @@
   align-items: center;
   border-color: transparent;
 }
-.header-navlink {
+.header-navlink1 {
   display: contents;
 }
 .header-frame1624 {
@@ -282,6 +286,7 @@
   display: contents;
 }
 .header-container6 {
+  gap: 8px;
   width: 160px;
   height: 100%;
   display: flex;
@@ -304,10 +309,15 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+.header-image2 {
+  width: 14px;
+  object-fit: cover;
+}
 .header-link4 {
   display: contents;
 }
 .header-container7 {
+  gap: 8px;
   width: 160px;
   height: 100%;
   display: flex;
@@ -316,7 +326,7 @@
   text-decoration: none;
 }
 .header-text10 {
-  color: #2b3f53;
+  color: rgb(43, 63, 83);
   height: auto;
   font-size: 14px;
   align-self: auto;
@@ -330,10 +340,15 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+.header-image3 {
+  width: 14px;
+  object-fit: cover;
+}
 .header-link5 {
   display: contents;
 }
 .header-container8 {
+  gap: 8px;
   width: 160px;
   height: 100%;
   display: flex;
@@ -356,6 +371,10 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+.header-image4 {
+  width: 14px;
+  object-fit: cover;
+}
 
 @media(max-width: 991px) {
   .header-frame2403 {
@@ -368,8 +387,10 @@
 }
 @media(max-width: 767px) {
   .header-frame2403 {
+    padding-top: 16px;
     padding-left: 0px;
     padding-right: 0px;
+    padding-bottom: 16px;
   }
   .header-frame1626 {
     padding-left: 24px;
@@ -403,15 +424,19 @@
   }
   .header-container5 {
     gap: 0px;
+    height: 48px;
   }
   .header-container6 {
     flex: 1;
+    flex-direction: column;
   }
   .header-container7 {
     flex: 1;
+    flex-direction: column;
   }
   .header-container8 {
     flex: 1;
+    flex-direction: column;
   }
 }
 @media(max-width: 479px) {
@@ -1118,7 +1143,7 @@
 }
 .form-container2 {
   flex: 1;
-  width: 40%;
+  width: 45%;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -1429,6 +1454,7 @@
   text-decoration: none;
 }
 .form-div {
+  flex: 1;
   width: 100%;
   height: 940px;
   max-width: 980px;
@@ -1501,11 +1527,8 @@
   }
   .form-i-stock1438810416 {
     height: 240px;
-    margin-top: 0px;
-    margin-left: 0x;
-    margin-right: 0x;
-    border-radius: 0px;
     margin-bottom: -30px;
+    object-position: 65% 0%;
   }
   .form-frame23688 {
     width: 90%;
