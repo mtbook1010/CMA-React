@@ -1828,6 +1828,13 @@
   .form-text17 {
     font-size: 14px;
   }
+  .form-container4 {
+    height: auto;
+  }
+  .form-div {
+    flex: 0 0 auto;
+    height: 1400px;
+  }
 }
 @media(max-width: 479px) {
   .form-frame23676 {
@@ -1955,6 +1962,6 @@
   }
   .form-div {
     flex: 0 0 auto;
-    height: 1300px;
+    height: 1400px;
   }
 }
