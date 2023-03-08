@@ -132,7 +132,7 @@
   border-radius: 4px;
   background-size: cover;
   justify-content: center;
-  background-image: 92b66c86-16bb-4faa-9e7a-fe1422d6bd8e;
+  background-image: url("public/playground_assets/frame%20237161-1100w.webp");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -498,6 +498,7 @@
   text-decoration: none;
 }
 
+
 @media(max-width: 991px) {
   .footer-frame2400 {
     height: auto;
@@ -553,7 +554,6 @@
   .footer-frame23594 {
     padding: 24px;
     background-size: cover;
-    background-image: cc711611-7616-44bd-a56d-d0e1900d6bed;
   }
   .footer-text15 {
     font-size: 24px;
