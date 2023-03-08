@@ -6505,6 +6505,9 @@
     overflow: hidden;
     position: absolute;
   }
+  .lp1-div {
+    opacity: 0.7;
+  }
   .lp1-frame2375 {
     height: auto;
     padding-left: 16px;
