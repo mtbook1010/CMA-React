@@ -1426,7 +1426,6 @@
   background-color: rgba(255, 255, 255, 1);
 }
 .form-container1 {
-  gap: 36px;
   width: 100%;
   display: flex;
   max-width: 1080px;
@@ -1438,6 +1437,7 @@
   width: 100%;
   display: flex;
   align-items: center;
+  margin-bottom: 36px;
   flex-direction: column;
   justify-content: center;
 }
@@ -1866,7 +1866,6 @@
     align-self: center;
     align-items: center;
     padding-left: 16px;
-    margin-bottom: 24px;
     padding-right: 16px;
     flex-direction: column;
     justify-content: center;
