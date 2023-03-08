@@ -987,6 +987,7 @@
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
+  letter-spacing: 0.1rem;
   text-decoration: none;
 }
 .lp1-container02 {
@@ -1053,6 +1054,11 @@
   line-height: 140%;
   font-stretch: normal;
   text-decoration: none;
+}
+.lp1-image {
+  width: 480px;
+  height: auto;
+  object-fit: cover;
 }
 .lp1-frame23603 {
   display: flex;
@@ -1341,7 +1347,7 @@
   margin-bottom: 16px;
   justify-content: center;
 }
-.lp1-image {
+.lp1-image01 {
   width: 120px;
   object-fit: cover;
   mix-blend-mode: color-burn;
@@ -1412,7 +1418,7 @@
   margin-bottom: 16px;
   justify-content: center;
 }
-.lp1-image01 {
+.lp1-image02 {
   width: 120px;
   object-fit: cover;
   mix-blend-mode: color-burn;
@@ -1474,7 +1480,7 @@
   margin-bottom: 16px;
   justify-content: center;
 }
-.lp1-image02 {
+.lp1-image03 {
   width: 120px;
   object-fit: cover;
   mix-blend-mode: color-burn;
@@ -1707,7 +1713,7 @@
   margin-bottom: 24px;
   justify-content: center;
 }
-.lp1-image03 {
+.lp1-image04 {
   width: 240px;
 }
 .lp1-frame2407 {
@@ -1780,7 +1786,7 @@
   margin-bottom: 24px;
   justify-content: center;
 }
-.lp1-image04 {
+.lp1-image05 {
   width: 240px;
 }
 .lp1-frame2406 {
@@ -1853,7 +1859,7 @@
   margin-bottom: 24px;
   justify-content: center;
 }
-.lp1-image05 {
+.lp1-image06 {
   width: 240px;
 }
 .lp1-frame2405 {
@@ -1950,7 +1956,7 @@
   margin-right: 48px;
   justify-content: center;
 }
-.lp1-image06 {
+.lp1-image07 {
   width: 280px;
   align-self: center;
 }
@@ -2030,12 +2036,12 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.lp1-image07 {
+.lp1-image08 {
   width: 100%;
   max-width: 1080px;
   margin-bottom: 64px;
 }
-.lp1-image08 {
+.lp1-image09 {
   width: 100%;
   display: none;
   max-width: 1080px;
@@ -2823,7 +2829,7 @@
   margin-right: 48px;
   justify-content: center;
 }
-.lp1-image09 {
+.lp1-image10 {
   width: 280px;
   object-fit: cover;
 }
@@ -3249,7 +3255,7 @@
   margin-right: 48px;
   justify-content: center;
 }
-.lp1-image10 {
+.lp1-image11 {
   width: 280px;
   object-fit: cover;
 }
@@ -4110,7 +4116,7 @@
   margin-bottom: 16px;
   justify-content: center;
 }
-.lp1-image11 {
+.lp1-image12 {
   width: 240px;
   object-fit: cover;
 }
@@ -5749,7 +5755,7 @@
     height: 140px;
     margin-right: 24px;
   }
-  .lp1-image06 {
+  .lp1-image07 {
     width: 200px;
   }
   .lp1-text074 {
@@ -5930,7 +5936,7 @@
     height: 140px;
     margin-right: 24px;
   }
-  .lp1-image09 {
+  .lp1-image10 {
     width: 200px;
   }
   .lp1-text126 {
@@ -5948,7 +5954,7 @@
     height: 140px;
     margin-right: 24px;
   }
-  .lp1-image10 {
+  .lp1-image11 {
     width: 200px;
   }
   .lp1-text147 {
@@ -6072,7 +6078,7 @@
     align-self: center;
     margin-bottom: 0px;
   }
-  .lp1-image {
+  .lp1-image01 {
     margin-top: 16px;
   }
   .lp1-frame2376 {
@@ -6096,7 +6102,7 @@
     align-self: center;
     margin-bottom: 0px;
   }
-  .lp1-image01 {
+  .lp1-image02 {
     margin-top: 16px;
   }
   .lp1-text030 {
@@ -6118,7 +6124,7 @@
     align-self: center;
     margin-bottom: 0px;
   }
-  .lp1-image02 {
+  .lp1-image03 {
     margin-top: 36px;
   }
   .lp1-text037 {
@@ -6138,7 +6144,7 @@
   .lp1-frame1630 {
     justify-content: flex-start;
   }
-  .lp1-image03 {
+  .lp1-image04 {
     width: 180px;
   }
   .lp1-frame2407 {
@@ -6153,7 +6159,7 @@
   .lp1-frame1631 {
     justify-content: flex-start;
   }
-  .lp1-image04 {
+  .lp1-image05 {
     width: 180px;
   }
   .lp1-text064 {
@@ -6165,7 +6171,7 @@
   .lp1-frame1633 {
     justify-content: flex-start;
   }
-  .lp1-image05 {
+  .lp1-image06 {
     width: 180px;
   }
   .lp1-text068 {
@@ -6200,11 +6206,11 @@
   .lp1-text079 {
     text-align: center;
   }
-  .lp1-image07 {
+  .lp1-image08 {
     display: none;
     margin-bottom: 36px;
   }
-  .lp1-image08 {
+  .lp1-image09 {
     width: 560px;
     display: flex;
     margin-bottom: 36px;
@@ -6428,9 +6434,9 @@
 @media(max-width: 479px) {
   .lp1-frame2380 {
     gap: 24px;
-    height: 400px;
+    height: auto;
     align-items: flex-start;
-    padding-top: 36px;
+    padding-top: 100px;
     padding-left: 0px;
     padding-right: 0px;
     flex-direction: column;
@@ -6443,7 +6449,7 @@
     width: 100%;
     bottom: 0px;
     height: 100%;
-    opacity: 0.3;
+    opacity: 0.4;
     overflow: hidden;
     position: absolute;
     padding-top: 72px;
@@ -6452,6 +6458,7 @@
     height: auto;
     padding-left: 16px;
     padding-right: 16px;
+    justify-content: space-between;
   }
   .lp1-frame2377 {
     width: 100%;
@@ -6463,9 +6470,10 @@
   }
   .lp1-text {
     color: rgb(255, 255, 255);
-    font-size: 4.5vw;
+    font-size: 18px;
     font-weight: 400;
     line-height: 100%;
+    letter-spacing: 0.1rem;
     text-decoration: none;
   }
   .lp1-container03 {
@@ -6515,6 +6523,9 @@
     font-weight: 600;
     line-height: 140%;
     text-decoration: none;
+  }
+  .lp1-image {
+    width: 100%;
   }
   .lp1-frame23603 {
     gap: 8px;
@@ -6601,7 +6612,7 @@
     height: 80px;
     margin-bottom: 0px;
   }
-  .lp1-image {
+  .lp1-image01 {
     width: 80px;
     margin-top: 0px;
   }
@@ -6621,7 +6632,7 @@
     height: 80px;
     margin-bottom: 0px;
   }
-  .lp1-image01 {
+  .lp1-image02 {
     width: 80px;
     margin-top: 0px;
   }
@@ -6640,7 +6651,7 @@
     height: 80px;
     margin-bottom: 0px;
   }
-  .lp1-image02 {
+  .lp1-image03 {
     width: 80px;
     margin-top: var(--dl-space-space-halfunit);
   }
@@ -6679,7 +6690,7 @@
     width: 100px;
     height: 100px;
   }
-  .lp1-image03 {
+  .lp1-image04 {
     width: 140px;
   }
   .lp1-text061 {
@@ -6698,7 +6709,7 @@
     width: 100px;
     height: 100px;
   }
-  .lp1-image04 {
+  .lp1-image05 {
     width: 140px;
   }
   .lp1-text064 {
@@ -6712,7 +6723,7 @@
     width: 100px;
     height: 100px;
   }
-  .lp1-image05 {
+  .lp1-image06 {
     width: 140px;
   }
   .lp1-text068 {
@@ -6733,10 +6744,10 @@
   .lp1-text079 {
     font-size: 12px;
   }
-  .lp1-image07 {
+  .lp1-image08 {
     display: none;
   }
-  .lp1-image08 {
+  .lp1-image09 {
     width: 400px;
   }
   .lp1-frame23771 {
@@ -6890,7 +6901,7 @@
     width: 140px;
     height: 140px;
   }
-  .lp1-image11 {
+  .lp1-image12 {
     width: 200px;
   }
   .lp1-text200 {
