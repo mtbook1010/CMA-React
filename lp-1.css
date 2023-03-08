@@ -1059,6 +1059,9 @@
   align-items: center;
   border-color: transparent;
 }
+.lp1-navlink {
+  display: contents;
+}
 .lp1-frame1624 {
   height: 60px;
   display: flex;
@@ -1070,6 +1073,7 @@
   margin-right: 16px;
   border-radius: 999px;
   justify-content: center;
+  text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
 .lp1-container04 {
