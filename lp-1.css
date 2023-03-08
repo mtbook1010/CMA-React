@@ -6612,6 +6612,7 @@
     flex: 0 0 auto;
     width: 100%;
     height: 240px;
+    background-size: 130%;
   }
   .lp1-container10 {
     flex-direction: column;
@@ -6622,6 +6623,7 @@
   .lp1-container11 {
     flex: 0 0 auto;
     width: 100%;
+    background-size: 130%;
   }
   .lp1-container12 {
     flex-direction: column;
@@ -6632,6 +6634,7 @@
   .lp1-container13 {
     flex: 0 0 auto;
     width: 100%;
+    background-size: 130%;
   }
   .lp1-frame23679 {
     gap: 24px;
@@ -7181,6 +7184,7 @@
     line-height: 180%;
   }
   .lp1-container09 {
+    background-repeat: no-repeat;
     background-position: center;
   }
   .lp1-frame23924 {
@@ -7191,6 +7195,10 @@
   }
   .lp1-text128 {
     line-height: 180%;
+  }
+  .lp1-container11 {
+    background-repeat: no-repeat;
+    background-position: left;
   }
   .lp1-container12 {
     margin-bottom: 0px;
@@ -7205,7 +7213,7 @@
     line-height: 180%;
   }
   .lp1-container13 {
-    background-position: top;
+    background-position: center;
   }
   .lp1-frame23772 {
     flex-direction: column;
