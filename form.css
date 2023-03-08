@@ -1799,7 +1799,7 @@
     padding-bottom: 64px;
   }
   .form-container1 {
-    height: 1672px;
+    height: auto;
     flex-direction: column;
     justify-content: flex-start;
   }
@@ -1819,6 +1819,7 @@
     flex: 1;
   }
   .form-container4 {
+    height: 1080px;
     padding-left: 16px;
     padding-right: 16px;
   }
@@ -1979,6 +1980,7 @@
     text-align: left;
   }
   .form-container4 {
+    height: auto;
     justify-content: flex-start;
   }
   .form-text22 {
