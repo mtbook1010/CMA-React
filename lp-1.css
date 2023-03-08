@@ -1715,6 +1715,9 @@
   flex-shrink: 0;
   border-color: transparent;
 }
+.lp1-link2 {
+  display: contents;
+}
 .lp1-frame1630 {
   flex: 1;
   width: 344px;
@@ -1729,6 +1732,7 @@
   border-style: solid;
   border-width: Symbol(figma.mixed)px;
   flex-direction: column;
+  text-decoration: none;
 }
 .lp1-frame23605 {
   width: 140px;
@@ -1788,6 +1792,9 @@
   height: 24px;
   position: relative;
 }
+.lp1-link3 {
+  display: contents;
+}
 .lp1-frame1633 {
   flex: 1;
   width: 344px;
@@ -1802,6 +1809,7 @@
   border-style: solid;
   border-width: Symbol(figma.mixed)px;
   flex-direction: column;
+  text-decoration: none;
 }
 .lp1-frame236051 {
   width: 140px;
@@ -1861,6 +1869,9 @@
   height: 24px;
   position: relative;
 }
+.lp1-link4 {
+  display: contents;
+}
 .lp1-frame1631 {
   flex: 1;
   width: 344px;
@@ -1875,6 +1886,7 @@
   border-style: solid;
   border-width: Symbol(figma.mixed)px;
   flex-direction: column;
+  text-decoration: none;
 }
 .lp1-frame236052 {
   width: 140px;
@@ -2786,7 +2798,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.lp1-link2 {
+.lp1-link5 {
   display: contents;
 }
 .lp1-image345 {
@@ -2796,7 +2808,7 @@
   border-color: transparent;
   text-decoration: none;
 }
-.lp1-link3 {
+.lp1-link6 {
   display: contents;
 }
 .lp1-image346 {
