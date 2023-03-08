@@ -6501,9 +6501,10 @@
     margin-bottom: 36px;
   }
   .lp1-container07 {
-    width: 560px;
+    width: auto;
     max-width: 1080px;
-    background-size: cover;
+    margin-bottom: 36px;
+    background-size: contain;
     background-image: url("public/playground_assets/frame%2023719-600w.webp");
     background-repeat: no-repeat;
     background-position: center;
@@ -6512,7 +6513,7 @@
     width: 560px;
     display: flex;
     opacity: 0;
-    margin-bottom: 36px;
+    margin-bottom: 0px;
   }
   .lp1-frame23658 {
     margin-bottom: 36px;
@@ -7083,7 +7084,7 @@
     display: none;
   }
   .lp1-container07 {
-    width: 400px;
+    background-size: contain;
     background-position: center;
   }
   .lp1-image09 {
