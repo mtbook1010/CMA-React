@@ -1742,7 +1742,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
 }
 .form-text22 {
   color: rgb(43, 63, 83);
