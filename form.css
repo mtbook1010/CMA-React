@@ -1421,7 +1421,7 @@
   margin-bottom: 0px;
   padding-right: 48px;
   flex-direction: row;
-  padding-bottom: 0px;
+  padding-bottom: 64px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
 }
@@ -1778,7 +1778,6 @@
   width: 100%;
   height: auto;
   max-width: 980px;
-  margin-bottom: 64px;
 }
 @media(max-width: 991px) {
   .form-frame23676 {
@@ -1813,7 +1812,6 @@
   }
   .form-div {
     width: 100%;
-    margin-bottom: 36px;
   }
 }
 @media(max-width: 767px) {
@@ -1940,7 +1938,7 @@
     text-align: left;
   }
   .form-container4 {
-    height: 1400px;
+    height: auto;
     justify-content: flex-start;
   }
   .form-text22 {
@@ -1957,6 +1955,6 @@
   }
   .form-div {
     flex: 0 0 auto;
-    height: 940px;
+    height: 1300px;
   }
 }
