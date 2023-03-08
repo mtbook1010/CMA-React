@@ -947,22 +947,40 @@
   flex-direction: column;
 }
 .form-frame23676 {
+  gap: 48px;
   width: 100%;
   display: flex;
   position: relative;
-  align-items: center;
+  align-items: flex-start;
   flex-shrink: 0;
-  padding-top: 140px;
+  padding-top: 180px;
   border-color: transparent;
   border-style: solid;
   border-width: Symbol(figma.mixed)px;
   padding-left: 48px;
   margin-bottom: 0px;
   padding-right: 48px;
-  flex-direction: column;
+  flex-direction: row;
   padding-bottom: 0px;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
+}
+.form-container1 {
+  gap: 48px;
+  width: 100%;
+  display: flex;
+  max-width: 1080px;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.form-container2 {
+  flex: 1;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
 .form-frame23630 {
   width: 100%;
@@ -971,7 +989,7 @@
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  margin-bottom: 48px;
+  margin-bottom: 24px;
   flex-direction: column;
 }
 .form-frame2397 {
@@ -981,30 +999,36 @@
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  justify-content: center;
+  justify-content: flex-start;
 }
 .form-frame2403 {
+  gap: 24px;
   display: flex;
   position: relative;
   align-items: center;
   border-color: transparent;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
 }
 .form-frame23606 {
-  width: 200px;
-  height: 200px;
+  width: 160px;
+  height: 160px;
   display: flex;
   position: relative;
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
-  margin-bottom: 16px;
   justify-content: center;
 }
 .form-image {
-  width: 240px;
+  width: 160px;
   object-fit: cover;
+}
+.form-container3 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
 }
 .form-frame23600 {
   display: flex;
@@ -1067,7 +1091,7 @@
   max-width: 1440px;
   align-items: center;
   border-color: transparent;
-  margin-bottom: 48px;
+  margin-bottom: 24px;
   flex-direction: column;
 }
 .form-i-stock1438810416 {
@@ -1105,7 +1129,7 @@
   color: rgb(255, 255, 255);
   width: 100%;
   height: auto;
-  font-size: 32px;
+  font-size: 20px;
   align-self: auto;
   font-style: Semi Bold;
   text-align: center;
@@ -1125,7 +1149,6 @@
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
-  margin-bottom: 48px;
   justify-content: center;
 }
 .form-frame2374 {
@@ -1162,7 +1185,7 @@
 .form-text07 {
   color: rgba(43, 63, 83, 1);
   height: auto;
-  font-size: 18px;
+  font-size: 14px;
   align-self: stretch;
   font-style: Bold;
   text-align: center;
@@ -1207,7 +1230,7 @@
 .form-text12 {
   color: rgba(43, 63, 83, 1);
   height: auto;
-  font-size: 18px;
+  font-size: 14px;
   align-self: stretch;
   font-style: Bold;
   text-align: center;
@@ -1251,7 +1274,7 @@
 .form-text17 {
   color: rgba(43, 63, 83, 1);
   height: auto;
-  font-size: 18px;
+  font-size: 14px;
   align-self: stretch;
   font-style: Bold;
   text-align: center;
@@ -1274,6 +1297,17 @@
     padding-top: 140px;
     padding-bottom: 64px;
   }
+  .form-container1 {
+    height: 1672px;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .form-container2 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: auto;
+    justify-content: flex-start;
+  }
   .form-frame2374 {
     flex: 1;
   }
@@ -1284,6 +1318,7 @@
     flex: 1;
   }
   .form-div {
+    width: 100%;
     margin-bottom: 36px;
   }
 }
@@ -1315,9 +1350,6 @@
   .form-frame23606 {
     width: 140px;
     height: 140px;
-  }
-  .form-image {
-    width: 200px;
   }
   .form-text02 {
     font-size: 36px;
