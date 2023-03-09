@@ -341,7 +341,7 @@
 <script>
 let button = document.getElementById('js-button');
 let menu = document.getElementBy('js-menu');
-let close = document.getElementByClassName('js-close');
+let close = document.getElementByClassName('js-close')[0];
 
 button.addEventListener('click',()=>{
   menu.classList.add('is-show');
