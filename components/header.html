@@ -275,14 +275,26 @@
 
 <script>
 let button = document.getElementById('js-button');
-let menu = document.getElementBy('js-menu');
-let close = document.getElementByClassName('js-close')[0];
+let menu = document.getElementById('js-menu');
+let close = document.getElementById('js-close');
+let close1 = document.getElementById('m1');
+let close2 = document.getElementById('m2');
+let close3 = document.getElementById('m3');
 
 button.addEventListener('click',()=>{
   menu.classList.add('is-show');
 });
 
 close.addEventListener('click', (evemt) => {
+  menu.classList.remove('is-show');
+});
+close1.addEventListener('click', (evemt) => {
+  menu.classList.remove('is-show');
+});
+close2.addEventListener('click', (evemt) => {
+  menu.classList.remove('is-show');
+});
+close3.addEventListener('click', (evemt) => {
   menu.classList.remove('is-show');
 });
 
