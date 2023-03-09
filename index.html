@@ -287,13 +287,11 @@
             </div>
             <div class="header-container10">
               <nav class="header-nav">
-                <a href="#s1" id="js-close" class="header-link7">
-                  <span>3つの強み</span>
-                </a>
-                <a href="#s2" id="js-close" class="header-link8">
+                <a href="#s1" class="js-close"><span>3つの強み</span></a>
+                <a href="#s2" class="header-link8 js-close">
                   <span>受講の流れ</span>
                 </a>
-                <span id="js-close" class="header-text27">
+                <span class="header-text27 js-close">
                   <span>よくある質問</span>
                 </span>
                 <div class="header-frame236032">
@@ -343,14 +341,19 @@
 
 <script>
 let button = document.getElementById('js-button');
-let menu = document.getElementById('js-menu');
+let menu = document.getElementBy('js-menu');
 let close = document.getElementById('js-close');
+let close_c = document.getElementByClassName('js-close');
 
 button.addEventListener('click',()=>{
   menu.classList.add('is-show');
 });
 
 close.addEventListener('click', (evemt) => {
+  menu.classList.remove('is-show');
+});
+
+close_c.addEventListener('click', (evemt) => {
   menu.classList.remove('is-show');
 });
 </script>"
