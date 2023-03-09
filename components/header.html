@@ -5,48 +5,6 @@
   ></script>
   <link href="./header.css" rel="stylesheet" />
   <div class="header-frame23696">
-    <div>
-      <dangerous-html
-        html="<script>
-let button = document.getElementById('js-button');
-let menu = document.getElementById('js-menu');
-let close = document.getElementById('js-close');
-
-/*
-ボタンがクリックされたら、
-メニュー表示させる
-*/
-button.addEventListener('click',()=>{
-  menu.classList.add('is-show');
-});
-
-
-/*
-閉じるボタンを押したら
-メニューを閉じる
-*/
-close.addEventListener('click', (evemt) => {
-  menu.classList.remove('is-show');
-});
-
-</script>
-
-<style>
-  .menu {
-  opacity: 0;
-  pointer-events: none;
-  visibility: hidden;
-  transition: all 1s ease;
-
-  &.is-show {
-    opacity: 1;
-    pointer-events: auto;
-    visibility: visible;
-  }
-}
-</style>"
-      ></dangerous-html>
-    </div>
     <div class="header-frame2403">
       <div class="header-frame1626">
         <a href="index.html" class="header-navlink">
@@ -201,7 +159,7 @@ close.addEventListener('click', (evemt) => {
           </a>
           <img
             id="js-close"
-            src="/playground_assets/menu-close.svg"
+            src="public/playground_assets/menu-close.svg"
             class="header-image6"
           />
           <div class="header-frame235901">
@@ -294,6 +252,39 @@ close.addEventListener('click', (evemt) => {
           </div>
         </nav>
       </div>
+    </div>
+    <div>
+      <dangerous-html
+        html="<style>
+  .menu {
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+  transition: all 1s ease;
+  }
+
+  .menu.is-show {
+    opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
+  }
+
+</style>
+
+<script>
+let button = document.getElementById('js-button');
+let menu = document.getElementById('js-menu');
+let close = document.getElementById('js-close');
+
+button.addEventListener('click',()=>{
+  menu.classList.add('is-show');
+});
+
+close.addEventListener('click', (evemt) => {
+  menu.classList.remove('is-show');
+});
+</script>"
+      ></dangerous-html>
     </div>
   </div>
 </div>
