@@ -765,7 +765,9 @@
   }
   .header-text15 {
     width: auto;
-    font-size: 14px;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
   }
   .header-text17 {
     width: auto;
@@ -7425,7 +7427,7 @@
     font-size: 4.5vw;
   }
   .lp1-text058 {
-    font-size: 36px;
+    font-size: 28px;
   }
   .lp1-text059 {
     font-size: 4.5vw;
