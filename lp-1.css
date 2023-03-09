@@ -1333,6 +1333,10 @@
   .footer-text04 {
     font-size: 16px;
   }
+  .footer-frame2394 {
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
   .footer-frame23594 {
     padding: 24px;
     background-size: cover;
@@ -6993,6 +6997,19 @@
     padding-left: 24px;
     padding-right: 24px;
   }
+  .lp1-container17 {
+    height: 380px;
+  }
+  .lp1-frame236061 {
+    width: 160px;
+    height: 160px;
+  }
+  .lp1-image12 {
+    width: 200px;
+  }
+  .lp1-text182 {
+    font-size: 36px;
+  }
   .lp1-text188 {
     font-size: 14px;
   }
@@ -7548,6 +7565,10 @@
     padding-left: 0px;
     padding-right: 0px;
   }
+  .lp1-frame2394 {
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
   .lp1-frame23594 {
     padding: 24px;
     background-size: cover;
@@ -7568,25 +7589,36 @@
     font-size: 15px;
   }
   .lp1-frame236762 {
+    padding-top: 36px;
     padding-left: 0px;
     padding-right: 0px;
+    padding-bottom: 36px;
   }
   .lp1-frame23690 {
     margin-bottom: 24px;
+  }
+  .lp1-container17 {
+    height: 295px;
   }
   .lp1-frame23971 {
     padding-left: 16px;
     padding-right: 16px;
   }
   .lp1-frame236061 {
-    width: 140px;
-    height: 140px;
+    width: 120px;
+    height: 120px;
   }
   .lp1-image12 {
-    width: 200px;
+    width: 160px;
+  }
+  .lp1-frame236001 {
+    margin-bottom: 8px;
+  }
+  .lp1-text180 {
+    font-size: 14px;
   }
   .lp1-text182 {
-    font-size: 36px;
+    font-size: 28px;
   }
   .lp1-frame23688 {
     width: 90%;
