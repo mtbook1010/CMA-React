@@ -6181,11 +6181,11 @@
   margin-bottom: 24px;
 }
 .lp1-frame23700 {
+  gap: 16px;
   display: flex;
   position: relative;
   align-items: flex-start;
   border-color: transparent;
-  margin-bottom: 24px;
   flex-direction: column;
 }
 .lp1-frame23926 {
@@ -6197,7 +6197,6 @@
   flex-shrink: 0;
   border-color: transparent;
   border-radius: 4px;
-  margin-bottom: 8px;
   justify-content: center;
   background-color: rgba(43, 62, 83, 1);
 }
