@@ -707,7 +707,7 @@
 .header-container09 {
   width: 100%;
   height: 40px;
-  display: flex;
+  display: none;
   align-items: center;
   padding-left: 20px;
   border-radius: 999px;
@@ -814,7 +814,7 @@
 }
 .header-frame16253 {
   width: 100%;
-  display: flex;
+  display: none;
   padding: 2px;
   position: relative;
   background: linear-gradient(88.68deg, #377DC5 0%, #013792 100%);
