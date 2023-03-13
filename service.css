@@ -657,7 +657,7 @@
   height: auto;
   display: flex;
   position: relative;
-  max-width: 1080px;
+  max-width: 800px;
   align-items: flex-start;
   flex-shrink: 0;
   border-color: transparent;
@@ -669,6 +669,7 @@
   padding: 36px 24px;
   position: relative;
   flex-grow: 1;
+  max-width: 800px;
   align-items: center;
   flex-shrink: 0;
   border-color: transparent;
@@ -736,6 +737,7 @@
   width: 100%;
   display: flex;
   position: relative;
+  max-width: 800px;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
@@ -989,6 +991,7 @@
   width: 100%;
   display: flex;
   position: relative;
+  max-width: 800px;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
