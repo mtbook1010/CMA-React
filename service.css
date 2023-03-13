@@ -196,7 +196,7 @@
 }
 .service-frame2380 {
   width: 100%;
-  height: 680px;
+  height: auto;
   display: flex;
   position: relative;
   align-items: center;
@@ -632,7 +632,7 @@
   margin-bottom: 0;
   text-decoration: underline none;
 }
-.service-q1 {
+.service-q1-sogo {
   width: 100%;
   display: flex;
   position: relative;
@@ -721,7 +721,7 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.service-image2 {
+.service-cma-l-ogo {
   width: 100%;
   height: auto;
   max-width: 720px;
@@ -809,7 +809,7 @@
   margin-bottom: -1px;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-image3 {
+.service-image2 {
   width: 48px;
   object-fit: cover;
   margin-right: 16px;
@@ -849,7 +849,7 @@
   margin-bottom: -1px;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-image4 {
+.service-image3 {
   width: 48px;
   object-fit: cover;
   margin-right: 16px;
@@ -882,7 +882,7 @@
   border-width: 1px;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-image5 {
+.service-image4 {
   width: 48px;
   object-fit: cover;
   margin-right: 16px;
@@ -976,7 +976,7 @@
   margin-bottom: 16px;
   text-decoration: none;
 }
-.service-image6 {
+.service-image5 {
   width: 100px;
   object-fit: cover;
 }
@@ -1394,7 +1394,7 @@
   margin-right: 25px;
   flex-direction: column;
 }
-.service-image7 {
+.service-image6 {
   width: 100%;
   max-width: 360px;
   object-fit: cover;
@@ -1495,7 +1495,7 @@
   margin-bottom: 24px;
   justify-content: space-between;
 }
-.service-image8 {
+.service-image7 {
   width: 352px;
   object-fit: cover;
 }
@@ -1778,7 +1778,7 @@
   .service-container04 {
     height: 585px;
   }
-  .service-q1 {
+  .service-q1-sogo {
     margin-bottom: 36px;
   }
   .service-frame23734 {
@@ -1924,7 +1924,7 @@
     font-weight: 600;
     line-height: 160%;
   }
-  .service-q1 {
+  .service-q1-sogo {
     padding-top: 24px;
     padding-left: 24px;
     padding-right: 24px;
@@ -2148,7 +2148,7 @@
   .service-text027 {
     font-size: 24px;
   }
-  .service-q1 {
+  .service-q1-sogo {
     padding-left: 16px;
     padding-right: 16px;
   }
@@ -2220,7 +2220,7 @@
     align-self: center;
     justify-content: center;
   }
-  .service-image8 {
+  .service-image7 {
     width: 100%;
   }
   .service-frame16211 {
