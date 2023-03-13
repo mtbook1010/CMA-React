@@ -1174,7 +1174,7 @@
   margin-bottom: 16px;
 }
 .service-text082 {
-  color: rgba(43, 63, 83, 1);
+  color: rgb(43, 63, 83);
   height: auto;
   font-size: 16px;
   align-self: stretch;
@@ -1182,7 +1182,7 @@
   text-align: center;
   font-family: Inter;
   font-weight: 400;
-  line-height: 160.0000023841858%;
+  line-height: 160%;
   font-stretch: normal;
   margin-right: 0;
   margin-bottom: 0;
@@ -1220,7 +1220,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.service-text087 {
+.service-text085 {
   color: transparent;
   font-size: 28px;
   align-self: auto;
@@ -1245,7 +1245,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.service-text090 {
+.service-text088 {
   color: transparent;
   font-size: 48px;
   align-self: auto;
@@ -1263,7 +1263,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.service-text093 {
+.service-text091 {
   color: transparent;
   font-size: 28px;
   align-self: auto;
@@ -1281,7 +1281,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.service-text096 {
+.service-text094 {
   color: transparent;
   font-size: 28px;
   align-self: auto;
@@ -1299,7 +1299,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.service-text099 {
+.service-text097 {
   color: transparent;
   font-size: 24px;
   align-self: auto;
@@ -1403,7 +1403,7 @@
   max-width: 360px;
   object-fit: cover;
 }
-.service-text102 {
+.service-text100 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
@@ -1436,7 +1436,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text106 {
+.service-text104 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -1511,7 +1511,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.service-text107 {
+.service-text105 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1530,7 +1530,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text108 {
+.service-text106 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1549,7 +1549,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text110 {
+.service-text108 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1568,7 +1568,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text111 {
+.service-text109 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1606,7 +1606,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text113 {
+.service-text111 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -1644,7 +1644,7 @@
   border-radius: 999px;
   justify-content: center;
 }
-.service-text114 {
+.service-text112 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
@@ -1685,6 +1685,34 @@
   margin-right: 0px;
   justify-content: flex-end;
 }
+.service-text113 {
+  color: var(--dl-color-gray-white);
+  width: auto;
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.service-text114 {
+  color: var(--dl-color-gray-white);
+  width: auto;
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
+}
 .service-text115 {
   color: var(--dl-color-gray-white);
   width: auto;
@@ -1713,34 +1741,6 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text117 {
-  color: var(--dl-color-gray-white);
-  width: auto;
-  height: auto;
-  font-size: 13px;
-  align-self: auto;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 100%;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.service-text118 {
-  color: var(--dl-color-gray-white);
-  width: auto;
-  height: auto;
-  font-size: 13px;
-  align-self: auto;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 100%;
-  font-stretch: normal;
-  text-decoration: none;
-}
 .service-frame57 {
   display: flex;
   padding: 4px 0;
@@ -1752,7 +1752,7 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.service-text119 {
+.service-text117 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1947,7 +1947,7 @@
   .service-frame23601 {
     margin-right: 0px;
   }
-  .service-text102 {
+  .service-text100 {
     font-size: 28px;
   }
   .service-frame56 {
@@ -2177,19 +2177,19 @@
     padding-right: 16px;
     padding-bottom: 36px;
   }
-  .service-text087 {
+  .service-text085 {
     font-size: 24px;
   }
-  .service-text090 {
+  .service-text088 {
     font-size: 36px;
   }
-  .service-text093 {
+  .service-text091 {
     font-size: 24px;
   }
-  .service-text096 {
+  .service-text094 {
     font-size: 24px;
   }
-  .service-text099 {
+  .service-text097 {
     font-size: 18px;
   }
   .service-frame2394 {
@@ -2204,14 +2204,14 @@
   .service-frame23601 {
     gap: 8px;
   }
-  .service-text102 {
+  .service-text100 {
     font-size: 5vw;
     text-align: center;
   }
   .service-frame16242 {
     width: 100%;
   }
-  .service-text106 {
+  .service-text104 {
     font-size: 15px;
   }
   .service-frame56 {
@@ -2233,16 +2233,16 @@
     flex-wrap: wrap;
     justify-content: center;
   }
-  .service-text107 {
+  .service-text105 {
+    width: auto;
+  }
+  .service-text106 {
     width: auto;
   }
   .service-text108 {
     width: auto;
   }
-  .service-text110 {
-    width: auto;
-  }
-  .service-text111 {
+  .service-text109 {
     width: auto;
   }
   .service-frame23666 {
@@ -2254,19 +2254,19 @@
     align-self: center;
     justify-content: center;
   }
+  .service-text113 {
+    width: auto;
+    font-size: 11px;
+  }
+  .service-text114 {
+    width: auto;
+    font-size: 11px;
+  }
   .service-text115 {
     width: auto;
     font-size: 11px;
   }
   .service-text116 {
-    width: auto;
-    font-size: 11px;
-  }
-  .service-text117 {
-    width: auto;
-    font-size: 11px;
-  }
-  .service-text118 {
     width: auto;
     font-size: 11px;
   }
