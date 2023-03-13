@@ -633,6 +633,7 @@
   text-decoration: underline none;
 }
 .service-frame2408 {
+  width: 100%;
   display: flex;
   position: relative;
   align-self: stretch;
