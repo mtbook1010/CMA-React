@@ -98,6 +98,15 @@
   margin-bottom: 24px;
   text-decoration: none;
 }
+.max-50 {
+  color: rgb(43, 63, 83);
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 160%;
+  letter-spacing: 4%;
+  text-decoration: underline;
+}
 .Content {
   font-size: 16px;
   font-family: Inter;
@@ -121,6 +130,14 @@
     font-style: normal;
     font-weight: 600;
     margin-bottom: 0px;
+  }
+  .max-50 {
+    color: rgb(43, 63, 83);
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 160%;
+    text-decoration: underline;
   }
 }
 
