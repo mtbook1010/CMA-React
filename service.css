@@ -647,7 +647,7 @@
   justify-content: center;
   background-image: linear-gradient(60deg, rgba(55, 125, 197, 1) 0%, rgba(1, 55, 146, 1) 100%); };
 }
-.service-q2 {
+.service-q2-sogo {
   width: 100%;
   height: auto;
   display: flex;
@@ -659,7 +659,6 @@
   flex-direction: column;
 }
 .service-q3 {
-  flex: 1;
   width: 100%;
   display: flex;
   padding: 36px 24px;
@@ -809,7 +808,7 @@
   margin-bottom: -1px;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-image2 {
+.service-q-1-2 {
   width: 48px;
   object-fit: cover;
   margin-right: 16px;
@@ -849,7 +848,7 @@
   margin-bottom: -1px;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-image3 {
+.service-q-1-3 {
   width: 48px;
   object-fit: cover;
   margin-right: 16px;
@@ -882,7 +881,7 @@
   border-width: 1px;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-image4 {
+.service-q-1-4 {
   width: 48px;
   object-fit: cover;
   margin-right: 16px;
@@ -976,7 +975,7 @@
   margin-bottom: 16px;
   text-decoration: none;
 }
-.service-image5 {
+.service-q-2-1 {
   width: 100px;
   object-fit: cover;
 }
@@ -1394,7 +1393,7 @@
   margin-right: 25px;
   flex-direction: column;
 }
-.service-image6 {
+.service-image2 {
   width: 100%;
   max-width: 360px;
   object-fit: cover;
@@ -1495,7 +1494,7 @@
   margin-bottom: 24px;
   justify-content: space-between;
 }
-.service-image7 {
+.service-image3 {
   width: 352px;
   object-fit: cover;
 }
@@ -2220,7 +2219,7 @@
     align-self: center;
     justify-content: center;
   }
-  .service-image7 {
+  .service-image3 {
     width: 100%;
   }
   .service-frame16211 {
