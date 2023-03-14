@@ -1266,6 +1266,9 @@
     width: 100%;
     justify-content: center;
   }
+  .header-root-class-name2 {
+    display: flex;
+  }
 }
 
 .footer-container {
@@ -2385,7 +2388,7 @@
     font-size: 36px;
   }
   .form-frame23690 {
-    margin-bottom: 24px;
+    margin-bottom: 36px;
   }
   .form-frame23688 {
     width: 90%;
@@ -2394,26 +2397,27 @@
     font-size: 20px;
   }
   .form-frame1623 {
-    gap: 8px;
+    gap: 0;
     align-self: center;
-    align-items: center;
+    align-items: flex-start;
     padding-left: 16px;
     padding-right: 16px;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
   }
   .form-frame2374 {
-    gap: 24px;
+    gap: 8px;
     width: 100%;
+    padding: 0px;
     align-self: center;
     align-items: center;
+    border-width: 0px;
     margin-right: 0px;
-    flex-direction: row;
-    justify-content: flex-start;
+    flex-direction: column;
   }
   .form-chat2 {
-    width: 64px;
-    height: 64px;
+    width: 48px;
+    height: 48px;
     margin-bottom: 0px;
   }
   .form-frame2376 {
@@ -2422,21 +2426,22 @@
     justify-content: center;
   }
   .form-text07 {
-    font-size: 4.5vw;
-    text-align: left;
+    font-size: 10px;
+    text-align: center;
   }
   .form-frame2373 {
-    gap: 24px;
+    gap: 8px;
     width: 100%;
-    align-self: center;
+    padding: 0px;
+    align-self: flex-start;
     align-items: center;
+    border-width: 0px;
     margin-right: 0px;
-    flex-direction: row;
-    justify-content: flex-start;
+    flex-direction: column;
   }
   .form-videoconference {
-    width: 64px;
-    height: 64px;
+    width: 48px;
+    height: 48px;
     margin-bottom: 0px;
   }
   .form-frame23761 {
@@ -2445,21 +2450,22 @@
     justify-content: center;
   }
   .form-text12 {
-    font-size: 4.5vw;
-    text-align: left;
+    font-size: 10px;
+    text-align: center;
   }
   .form-frame2375 {
-    gap: 24px;
+    gap: 8px;
     width: 100%;
-    align-self: center;
+    padding: 0px;
+    align-self: flex-start;
     align-items: center;
+    border-width: 0px;
     margin-right: 0px;
-    flex-direction: row;
-    justify-content: flex-start;
+    flex-direction: column;
   }
   .form-chat {
-    width: 64px;
-    height: 64px;
+    width: 48px;
+    height: 48px;
     margin-bottom: 0px;
   }
   .form-frame23762 {
@@ -2468,8 +2474,8 @@
     justify-content: center;
   }
   .form-text17 {
-    font-size: 4.5vw;
-    text-align: left;
+    font-size: 10px;
+    text-align: center;
   }
   .form-text22 {
     color: rgb(43, 63, 83);

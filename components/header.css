@@ -1266,4 +1266,7 @@
     width: 100%;
     justify-content: center;
   }
+  .header-root-class-name2 {
+    display: flex;
+  }
 }
