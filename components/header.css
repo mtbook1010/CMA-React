@@ -188,7 +188,7 @@
   position: relative;
 }
 .header-frame1625 {
-  display: flex;
+  display: none;
   padding: 2px;
   position: relative;
   background: linear-gradient(88.68deg, #377DC5 0%, #013792 100%);
