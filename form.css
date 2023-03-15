@@ -860,7 +860,9 @@
 }
 
 
-
+.header-root-class-name2 {
+  display: none;
+}
 @media(max-width: 991px) {
   .header-frame2403 {
     padding-left: 36px;
@@ -1267,7 +1269,7 @@
     justify-content: center;
   }
   .header-root-class-name2 {
-    display: flex;
+    display: none;
   }
 }
 
@@ -2162,13 +2164,6 @@
   text-decoration: none;
 }
 .form-container3 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
-}
-.form-container4 {
   width: 100%;
   height: auto;
   display: flex;
@@ -2235,7 +2230,7 @@
   .form-frame2375 {
     flex: 1;
   }
-  .form-container4 {
+  .form-container3 {
     padding-left: 16px;
     padding-right: 16px;
   }
@@ -2268,14 +2263,18 @@
     gap: 24px;
     height: auto;
   }
+  .form-container2 {
+    margin-bottom: 24px;
+  }
   .form-frame23690 {
     margin-bottom: 36px;
   }
   .form-frame23688 {
     width: 90%;
+    padding: 16px;
   }
   .form-text {
-    font-size: 20px;
+    font-size: 16px;
   }
   .form-frame1623 {
     gap: 0;
@@ -2297,8 +2296,8 @@
     flex-direction: column;
   }
   .form-chat2 {
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     margin-bottom: 0px;
   }
   .form-frame2376 {
@@ -2321,8 +2320,8 @@
     flex-direction: column;
   }
   .form-videoconference {
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     margin-bottom: 0px;
   }
   .form-frame23761 {
@@ -2345,8 +2344,8 @@
     flex-direction: column;
   }
   .form-chat {
-    width: 48px;
-    height: 48px;
+    width: 40px;
+    height: 40px;
     margin-bottom: 0px;
   }
   .form-frame23762 {
@@ -2368,6 +2367,6 @@
     text-decoration: none;
   }
   .form-text20 {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
