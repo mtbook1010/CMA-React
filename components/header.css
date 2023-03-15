@@ -860,9 +860,7 @@
 }
 
 
-.header-root-class-name2 {
-  display: none;
-}
+
 @media(max-width: 991px) {
   .header-frame2403 {
     padding-left: 36px;
@@ -1269,6 +1267,6 @@
     justify-content: center;
   }
   .header-root-class-name2 {
-    display: none;
+    display: flex;
   }
 }
