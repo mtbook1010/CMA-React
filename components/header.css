@@ -119,11 +119,15 @@
   position: relative;
   border-color: transparent;
 }
+.header-link02 {
+  display: contents;
+}
 .header-container02 {
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 .header-text04 {
   color: #2b3f53;
@@ -269,7 +273,7 @@
   flex-shrink: 0;
   border-color: transparent;
 }
-.header-link02 {
+.header-link03 {
   display: contents;
 }
 .header-frame1630 {
@@ -347,7 +351,7 @@
   height: 14px;
   position: relative;
 }
-.header-link03 {
+.header-link04 {
   display: contents;
 }
 .header-frame1633 {
@@ -424,7 +428,7 @@
   height: 14px;
   position: relative;
 }
-.header-link04 {
+.header-link05 {
   display: contents;
 }
 .header-frame1631 {
@@ -569,7 +573,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.header-link05 {
+.header-link06 {
   display: contents;
 }
 .header-container06 {
@@ -596,7 +600,7 @@
   position: relative;
   border-color: transparent;
 }
-.header-link06 {
+.header-link07 {
   display: contents;
 }
 .header-container07 {
@@ -623,7 +627,7 @@
   position: relative;
   border-color: transparent;
 }
-.header-link07 {
+.header-link08 {
   display: contents;
 }
 .header-container08 {
@@ -756,11 +760,11 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.header-link09 {
+.header-link10 {
   color: rgba(43, 63, 83, 1);
   text-decoration: none;
 }
-.header-link10 {
+.header-link11 {
   color: rgba(43, 63, 83, 1);
   margin-bottom: 0px;
   text-decoration: none;
@@ -1022,18 +1026,18 @@
   .header-nav {
     gap: 36px;
   }
-  .header-link08 {
+  .header-link09 {
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
   }
-  .header-link09 {
+  .header-link10 {
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
     margin-bottom: 0px;
   }
-  .header-link10 {
+  .header-link11 {
     font-size: 20px;
     font-style: normal;
     font-weight: 600;
