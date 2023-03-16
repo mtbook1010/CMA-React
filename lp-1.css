@@ -7609,6 +7609,7 @@
   }
   .lp1-text097 {
     font-size: 24px;
+    text-align: left;
   }
   .lp1-text099 {
     text-align: left;
@@ -8206,6 +8207,7 @@
   }
   .lp1-frame1637 {
     padding-top: 24px;
+    padding-left: 16px;
     padding-right: 16px;
     padding-bottom: 24px;
   }
