@@ -73,7 +73,7 @@
     <div>
       <script
         type="text/javascript"
-        src="https://unpkg.com/dangerous-html@0.1.11/dist/default/lib.umd.js"
+        src="https://unpkg.com/dangerous-html@0.1.12/dist/default/lib.umd.js"
       ></script>
       <link href="./form.css" rel="stylesheet" />
 
@@ -154,7 +154,7 @@
   >
     <div>
       <iframe
-        src='https://timerex.net/s/bizdev-support_72a5/bc05f088/embed?disable_logo=1&amp;primary_color=%23054bb4&amp;order_id=8mv5glr8jpo'
+        src='https://timerex.net/s/bizdev-support_72a5/bc05f088/embed?disable_logo=1&amp;primary_color=%23377DC5&amp;order_id=teleporthq3'
         class='timerex-calendar'
         width='100%'
         height='2000px'
@@ -170,11 +170,15 @@
   ></script>
   <script type='text/javascript'>
     TimerexCalendar({
-      primary_color: '#377DC5',
-      disable_logo: 'true',
-      url_params: Object.assign({
-        order_id: teleporthq3,
-      }, []),
+      'onLoad': function () {
+        console.log('Widget Loaded');
+      },
+      'onFormOpen': function () {
+        console.log('Booking form opened');
+      },  
+      'onBookingComplete': function () {
+        console.log('Booking completed');
+      }, 
     });
   </script>
   <!-- End TimeRex Widget -->
