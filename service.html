@@ -61,7 +61,22 @@
       href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
       data-tag="font"
     />
+    <!--This is the head section-->
+    <!-- Google tag (gtag.js) -->
+
+    <!-- <style> ... </style> -->
     <link rel="stylesheet" href="./style.css" />
+    <script
+      async=""
+      src="https://www.googletagmanager.com/gtag/js?id=AW-654441894"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-654441894');
+    </script>
   </head>
   <body>
     <div>
@@ -643,6 +658,19 @@ close3.addEventListener('click', (evemt) => {
               j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
               })(window,document,'script','dataLayer','GTM-WJQ7SCQ');
+    </script>
+    <script type="text/javascript">
+      TimerexCalendar({
+        'onLoad': function () {
+          console.log('Widget Loaded');
+        },
+        'onFormOpen': function () {
+          console.log('Booking form opened');
+        },
+        'onBookingComplete': function () {
+          console.log('Booking completed');
+        },
+      });
     </script>
   </body>
 </html>
