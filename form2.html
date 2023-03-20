@@ -61,9 +61,22 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
       data-tag="font"
     />
-    <!--This is the head section-->
-    <!-- <style> ... </style> -->
+
+    <!-- もしもアフィリエイト -->
+
     <link rel="stylesheet" href="./style.css" />
+    <script
+      async=""
+      src="https://www.googletagmanager.com/gtag/js?id=AW-654441894"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-654441894');
+    </script>
+    <script src="https://r.moshimo.com/af/r/maftag.js"></script>
   </head>
   <body>
     <div>
@@ -370,6 +383,22 @@
               j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
               })(window,document,'script','dataLayer','GTM-WJQ7SCQ');
+    </script>
+    <script id="timerex_embed" src="https://timerex.net/js/embed.js"></script>
+    <script type="text/javascript">
+      TimerexCalendar({
+        'onLoad': function () {
+          console.log('Widget Loaded');
+        },
+        'onFormOpen': function () {
+          console.log('Booking form opened');
+        },
+        'onBookingComplete': function () {
+          console.log('Booking completed');
+          gtag('event', 'conversion', {'send_to': 'AW-654441894/xmUYCMv8-ckDEKb7h7gC'});
+          window.location='https://cma-teleporthq.netlify.app/thanks';
+        },
+      });
     </script>
   </body>
 </html>
