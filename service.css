@@ -1260,7 +1260,6 @@
   font-weight: 600;
   line-height: 160%;
   font-stretch: normal;
-  text-decoration: underline none;
 }
 .service-link02 {
   color: #007eff;
@@ -1268,9 +1267,6 @@
 }
 .service-link03 {
   color: #007eff;
-  text-decoration: underline;
-}
-.service-link04 {
   text-decoration: underline;
 }
 .service-container15 {
@@ -1305,15 +1301,15 @@
   font-weight: 600;
   line-height: 160%;
   font-stretch: normal;
-  text-decoration: underline none;
 }
-.service-link05 {
+.service-text096 {
   color: #007eff;
-  text-decoration: underline;
 }
-.service-link06 {
+.service-text098 {
   color: #007eff;
-  text-decoration: underline;
+}
+.service-text099 {
+  color: #007eff;
 }
 .service-container16 {
   gap: 16px;
@@ -1326,7 +1322,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text098 {
+.service-text101 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1335,7 +1331,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text099 {
+.service-text102 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1349,11 +1345,11 @@
   font-stretch: normal;
   text-decoration: underline none;
 }
-.service-link07 {
+.service-link04 {
   color: #007eff;
   text-decoration: underline;
 }
-.service-link08 {
+.service-link05 {
   color: #007eff;
   text-decoration: underline;
 }
@@ -1368,7 +1364,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text103 {
+.service-text106 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1377,7 +1373,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text104 {
+.service-text107 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1391,11 +1387,11 @@
   font-stretch: normal;
   text-decoration: underline none;
 }
-.service-link09 {
+.service-link06 {
   color: #007eff;
   text-decoration: underline;
 }
-.service-link10 {
+.service-link07 {
   color: #007eff;
   text-decoration: underline;
 }
@@ -1410,7 +1406,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text108 {
+.service-text111 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1419,7 +1415,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text109 {
+.service-text112 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1433,15 +1429,92 @@
   font-stretch: normal;
   text-decoration: underline none;
 }
-.service-link11 {
+.service-link08 {
   color: #007eff;
   text-decoration: underline;
 }
-.service-link12 {
+.service-link09 {
   color: #007eff;
   text-decoration: underline;
 }
 .service-container19 {
+  gap: 16px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 800px;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.service-text116 {
+  color: rgb(130, 144, 159);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: 4%;
+}
+.service-text117 {
+  color: rgb(43, 63, 83);
+  width: auto;
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 160%;
+  font-stretch: normal;
+  text-decoration:    ;
+}
+.service-text119 {
+  color: #007eff;
+}
+.service-text123 {
+  color: #007eff;
+}
+.service-container20 {
+  gap: 16px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 800px;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.service-text125 {
+  color: rgb(130, 144, 159);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: 4%;
+}
+.service-text126 {
+  color: rgb(43, 63, 83);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 160%;
+  letter-spacing: 4%;
+}
+.service-text128 {
+  color: #007eff;
+  text-decoration: underline;
+}
+.service-text130 {
+  color: #007eff;
+  text-decoration: underline;
+}
+.service-container21 {
   width: 100%;
   display: flex;
   position: relative;
@@ -1514,7 +1587,7 @@
   max-width: 360px;
   object-fit: cover;
 }
-.service-text113 {
+.service-text132 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
@@ -1547,7 +1620,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text117 {
+.service-text136 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -1622,7 +1695,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.service-text118 {
+.service-text137 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1641,7 +1714,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text119 {
+.service-text138 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1660,7 +1733,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text121 {
+.service-text140 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1679,7 +1752,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text122 {
+.service-text141 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1717,7 +1790,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text124 {
+.service-text143 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -1755,7 +1828,7 @@
   border-radius: 999px;
   justify-content: center;
 }
-.service-text125 {
+.service-text144 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
@@ -1775,7 +1848,7 @@
   height: 12px;
   position: relative;
 }
-.service-container20 {
+.service-container22 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -1796,7 +1869,7 @@
   margin-right: 0px;
   justify-content: flex-end;
 }
-.service-text126 {
+.service-text145 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1810,7 +1883,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text127 {
+.service-text146 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1824,7 +1897,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text128 {
+.service-text147 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1838,7 +1911,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text129 {
+.service-text148 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1863,7 +1936,7 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.service-text130 {
+.service-text149 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -2038,10 +2111,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text098 {
+  .service-text101 {
     font-size: 12px;
   }
-  .service-text099 {
+  .service-text102 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2053,10 +2126,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text103 {
+  .service-text106 {
     font-size: 12px;
   }
-  .service-text104 {
+  .service-text107 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2068,16 +2141,38 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text108 {
+  .service-text111 {
     font-size: 12px;
   }
-  .service-text109 {
+  .service-text112 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
     font-family: Inter;
     font-weight: 600;
     line-height: 160%;
+  }
+  .service-container19 {
+    gap: 0px;
+    flex-direction: column;
+  }
+  .service-text116 {
+    font-size: 12px;
+  }
+  .service-text117 {
+    color: rgb(43, 63, 83);
+    font-size: 14px;
+    font-style: normal;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 160%;
+  }
+  .service-container20 {
+    gap: 0px;
+    flex-direction: column;
+  }
+  .service-text125 {
+    font-size: 12px;
   }
   .service-frame2394 {
     padding-top: 64px;
@@ -2088,7 +2183,7 @@
   .service-frame23601 {
     margin-right: 0px;
   }
-  .service-text113 {
+  .service-text132 {
     font-size: 28px;
   }
   .service-frame56 {
@@ -2345,14 +2440,14 @@
   .service-frame23601 {
     gap: 8px;
   }
-  .service-text113 {
+  .service-text132 {
     font-size: 5vw;
     text-align: center;
   }
   .service-frame16242 {
     width: 100%;
   }
-  .service-text117 {
+  .service-text136 {
     font-size: 15px;
   }
   .service-frame56 {
@@ -2374,16 +2469,16 @@
     flex-wrap: wrap;
     justify-content: center;
   }
-  .service-text118 {
+  .service-text137 {
     width: auto;
   }
-  .service-text119 {
+  .service-text138 {
     width: auto;
   }
-  .service-text121 {
+  .service-text140 {
     width: auto;
   }
-  .service-text122 {
+  .service-text141 {
     width: auto;
   }
   .service-frame23666 {
@@ -2395,19 +2490,19 @@
     align-self: center;
     justify-content: center;
   }
-  .service-text126 {
+  .service-text145 {
     width: auto;
     font-size: 11px;
   }
-  .service-text127 {
+  .service-text146 {
     width: auto;
     font-size: 11px;
   }
-  .service-text128 {
+  .service-text147 {
     width: auto;
     font-size: 11px;
   }
-  .service-text129 {
+  .service-text148 {
     width: auto;
     font-size: 11px;
   }
