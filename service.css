@@ -1248,7 +1248,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text089 {
+.service-text091 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1269,6 +1269,10 @@
   color: #007eff;
   text-decoration: underline;
 }
+.service-link04 {
+  color: #007eff;
+  text-decoration: underline;
+}
 .service-container15 {
   gap: 16px;
   width: 100%;
@@ -1280,7 +1284,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text093 {
+.service-text096 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1289,7 +1293,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text094 {
+.service-text097 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1302,14 +1306,13 @@
   line-height: 160%;
   font-stretch: normal;
 }
-.service-text096 {
+.service-link05 {
   color: #007eff;
+  text-decoration: underline;
 }
-.service-text098 {
+.service-link06 {
   color: #007eff;
-}
-.service-text099 {
-  color: #007eff;
+  text-decoration: underline;
 }
 .service-container16 {
   gap: 16px;
@@ -1343,15 +1346,15 @@
   font-weight: 600;
   line-height: 160%;
   font-stretch: normal;
-  text-decoration: underline none;
 }
-.service-link04 {
+.service-text104 {
   color: #007eff;
-  text-decoration: underline;
 }
-.service-link05 {
+.service-text106 {
   color: #007eff;
-  text-decoration: underline;
+}
+.service-text107 {
+  color: #007eff;
 }
 .service-container17 {
   gap: 16px;
@@ -1364,7 +1367,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text106 {
+.service-text109 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1373,7 +1376,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text107 {
+.service-text110 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1387,11 +1390,11 @@
   font-stretch: normal;
   text-decoration: underline none;
 }
-.service-link06 {
+.service-link07 {
   color: #007eff;
   text-decoration: underline;
 }
-.service-link07 {
+.service-link08 {
   color: #007eff;
   text-decoration: underline;
 }
@@ -1406,7 +1409,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text111 {
+.service-text114 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1415,7 +1418,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text112 {
+.service-text115 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1429,11 +1432,11 @@
   font-stretch: normal;
   text-decoration: underline none;
 }
-.service-link08 {
+.service-link09 {
   color: #007eff;
   text-decoration: underline;
 }
-.service-link09 {
+.service-link10 {
   color: #007eff;
   text-decoration: underline;
 }
@@ -1448,7 +1451,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text116 {
+.service-text119 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1457,7 +1460,49 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text117 {
+.service-text120 {
+  color: rgb(43, 63, 83);
+  width: auto;
+  height: auto;
+  font-size: 16px;
+  align-self: stretch;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 160%;
+  font-stretch: normal;
+  text-decoration: underline none;
+}
+.service-link11 {
+  color: #007eff;
+  text-decoration: underline;
+}
+.service-link12 {
+  color: #007eff;
+  text-decoration: underline;
+}
+.service-container20 {
+  gap: 16px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 800px;
+  align-self: center;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.service-text124 {
+  color: rgb(130, 144, 159);
+  font-size: 16px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 160%;
+  letter-spacing: 4%;
+}
+.service-text125 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1471,13 +1516,13 @@
   font-stretch: normal;
   text-decoration:    ;
 }
-.service-text119 {
+.service-text127 {
   color: #007eff;
 }
-.service-text123 {
+.service-text131 {
   color: #007eff;
 }
-.service-container20 {
+.service-container21 {
   width: 100%;
   display: flex;
   position: relative;
@@ -1550,7 +1595,7 @@
   max-width: 360px;
   object-fit: cover;
 }
-.service-text125 {
+.service-text133 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
@@ -1583,7 +1628,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text129 {
+.service-text137 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -1658,7 +1703,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.service-text130 {
+.service-text138 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1677,7 +1722,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text131 {
+.service-text139 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1696,7 +1741,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text133 {
+.service-text141 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1715,7 +1760,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text134 {
+.service-text142 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1753,7 +1798,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text136 {
+.service-text144 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -1791,7 +1836,7 @@
   border-radius: 999px;
   justify-content: center;
 }
-.service-text137 {
+.service-text145 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
@@ -1811,7 +1856,7 @@
   height: 12px;
   position: relative;
 }
-.service-container21 {
+.service-container22 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -1832,7 +1877,7 @@
   margin-right: 0px;
   justify-content: flex-end;
 }
-.service-text138 {
+.service-text146 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1846,7 +1891,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text139 {
+.service-text147 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1860,7 +1905,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text140 {
+.service-text148 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1874,7 +1919,7 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text141 {
+.service-text149 {
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
@@ -1899,7 +1944,7 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.service-text142 {
+.service-text150 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -2048,6 +2093,9 @@
     font-size: 12px;
   }
   .service-text089 {
+    font-size: 12px;
+  }
+  .service-text091 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2059,10 +2107,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text093 {
+  .service-text096 {
     font-size: 12px;
   }
-  .service-text094 {
+  .service-text097 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2089,10 +2137,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text106 {
+  .service-text109 {
     font-size: 12px;
   }
-  .service-text107 {
+  .service-text110 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2104,10 +2152,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text111 {
+  .service-text114 {
     font-size: 12px;
   }
-  .service-text112 {
+  .service-text115 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2119,10 +2167,25 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text116 {
+  .service-text119 {
     font-size: 12px;
   }
-  .service-text117 {
+  .service-text120 {
+    color: rgb(43, 63, 83);
+    font-size: 14px;
+    font-style: normal;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 160%;
+  }
+  .service-container20 {
+    gap: 0px;
+    flex-direction: column;
+  }
+  .service-text124 {
+    font-size: 12px;
+  }
+  .service-text125 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2139,7 +2202,7 @@
   .service-frame23601 {
     margin-right: 0px;
   }
-  .service-text125 {
+  .service-text133 {
     font-size: 28px;
   }
   .service-frame56 {
@@ -2396,14 +2459,14 @@
   .service-frame23601 {
     gap: 8px;
   }
-  .service-text125 {
+  .service-text133 {
     font-size: 5vw;
     text-align: center;
   }
   .service-frame16242 {
     width: 100%;
   }
-  .service-text129 {
+  .service-text137 {
     font-size: 15px;
   }
   .service-frame56 {
@@ -2425,16 +2488,16 @@
     flex-wrap: wrap;
     justify-content: center;
   }
-  .service-text130 {
+  .service-text138 {
     width: auto;
   }
-  .service-text131 {
+  .service-text139 {
     width: auto;
   }
-  .service-text133 {
+  .service-text141 {
     width: auto;
   }
-  .service-text134 {
+  .service-text142 {
     width: auto;
   }
   .service-frame23666 {
@@ -2446,19 +2509,19 @@
     align-self: center;
     justify-content: center;
   }
-  .service-text138 {
+  .service-text146 {
     width: auto;
     font-size: 11px;
   }
-  .service-text139 {
+  .service-text147 {
     width: auto;
     font-size: 11px;
   }
-  .service-text140 {
+  .service-text148 {
     width: auto;
     font-size: 11px;
   }
-  .service-text141 {
+  .service-text149 {
     width: auto;
     font-size: 11px;
   }
