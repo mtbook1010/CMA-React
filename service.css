@@ -1325,7 +1325,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text103 {
+.service-text102 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1334,7 +1334,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text104 {
+.service-text103 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1366,7 +1366,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text108 {
+.service-text107 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1375,7 +1375,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text109 {
+.service-text108 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1388,13 +1388,13 @@
   line-height: 160%;
   font-stretch: normal;
 }
-.service-text111 {
+.service-text110 {
+  color: #007eff;
+}
+.service-text112 {
   color: #007eff;
 }
 .service-text113 {
-  color: #007eff;
-}
-.service-text114 {
   color: #007eff;
 }
 .service-container18 {
@@ -1408,7 +1408,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text116 {
+.service-text115 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1417,7 +1417,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text117 {
+.service-text116 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1450,7 +1450,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text121 {
+.service-text120 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1459,7 +1459,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text122 {
+.service-text121 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1492,7 +1492,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text126 {
+.service-text125 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1501,7 +1501,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text127 {
+.service-text126 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1534,7 +1534,7 @@
   flex-direction: row;
   justify-content: flex-start;
 }
-.service-text131 {
+.service-text130 {
   color: rgb(130, 144, 159);
   font-size: 16px;
   font-style: normal;
@@ -1543,7 +1543,7 @@
   line-height: 160%;
   letter-spacing: 4%;
 }
-.service-text132 {
+.service-text131 {
   color: rgb(43, 63, 83);
   width: auto;
   height: auto;
@@ -1557,10 +1557,10 @@
   font-stretch: normal;
   text-decoration:    ;
 }
-.service-text134 {
+.service-text133 {
   color: #007eff;
 }
-.service-text138 {
+.service-text137 {
   color: #007eff;
 }
 .service-container22 {
@@ -1636,7 +1636,7 @@
   max-width: 360px;
   object-fit: cover;
 }
-.service-text140 {
+.service-text139 {
   color: rgb(255, 255, 255);
   width: auto;
   font-size: 32px;
@@ -1669,7 +1669,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text144 {
+.service-text143 {
   color: transparent;
   font-size: 18px;
   align-self: auto;
@@ -1744,7 +1744,7 @@
   border-color: transparent;
   justify-content: center;
 }
-.service-text145 {
+.service-text144 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1763,7 +1763,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text146 {
+.service-text145 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1782,7 +1782,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text148 {
+.service-text147 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -1801,7 +1801,7 @@
   position: relative;
   border-color: transparent;
 }
-.service-text149 {
+.service-text148 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   font-size: 12px;
@@ -1839,7 +1839,7 @@
   text-decoration: none;
   background-color: rgba(255, 255, 255, 1);
 }
-.service-text151 {
+.service-text150 {
   color: transparent;
   font-size: 14px;
   align-self: auto;
@@ -1877,7 +1877,7 @@
   border-radius: 999px;
   justify-content: center;
 }
-.service-text152 {
+.service-text151 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 14px;
@@ -1917,6 +1917,20 @@
   border-color: transparent;
   margin-right: 0px;
   justify-content: flex-end;
+}
+.service-text152 {
+  color: var(--dl-color-gray-white);
+  width: auto;
+  height: auto;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 100%;
+  font-stretch: normal;
+  text-decoration: none;
 }
 .service-text153 {
   color: var(--dl-color-gray-white);
@@ -1960,20 +1974,6 @@
   font-stretch: normal;
   text-decoration: none;
 }
-.service-text156 {
-  color: var(--dl-color-gray-white);
-  width: auto;
-  height: auto;
-  font-size: 13px;
-  align-self: auto;
-  font-style: Medium;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 500;
-  line-height: 100%;
-  font-stretch: normal;
-  text-decoration: none;
-}
 .service-frame57 {
   display: flex;
   padding: 4px 0;
@@ -1985,7 +1985,7 @@
   justify-content: center;
   background-color: rgba(0, 0, 0, 1);
 }
-.service-text157 {
+.service-text156 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 12px;
@@ -2166,10 +2166,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text103 {
+  .service-text102 {
     font-size: 12px;
   }
-  .service-text104 {
+  .service-text103 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2181,10 +2181,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text108 {
+  .service-text107 {
     font-size: 12px;
   }
-  .service-text109 {
+  .service-text108 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2196,10 +2196,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text116 {
+  .service-text115 {
     font-size: 12px;
   }
-  .service-text117 {
+  .service-text116 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2211,10 +2211,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text121 {
+  .service-text120 {
     font-size: 12px;
   }
-  .service-text122 {
+  .service-text121 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2226,10 +2226,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text126 {
+  .service-text125 {
     font-size: 12px;
   }
-  .service-text127 {
+  .service-text126 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2241,10 +2241,10 @@
     gap: 0px;
     flex-direction: column;
   }
-  .service-text131 {
+  .service-text130 {
     font-size: 12px;
   }
-  .service-text132 {
+  .service-text131 {
     color: rgb(43, 63, 83);
     font-size: 14px;
     font-style: normal;
@@ -2261,7 +2261,7 @@
   .service-frame23601 {
     margin-right: 0px;
   }
-  .service-text140 {
+  .service-text139 {
     font-size: 28px;
   }
   .service-frame56 {
@@ -2518,14 +2518,14 @@
   .service-frame23601 {
     gap: 8px;
   }
-  .service-text140 {
+  .service-text139 {
     font-size: 5vw;
     text-align: center;
   }
   .service-frame16242 {
     width: 100%;
   }
-  .service-text144 {
+  .service-text143 {
     font-size: 15px;
   }
   .service-frame56 {
@@ -2547,16 +2547,16 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+  .service-text144 {
+    width: auto;
+  }
   .service-text145 {
     width: auto;
   }
-  .service-text146 {
+  .service-text147 {
     width: auto;
   }
   .service-text148 {
-    width: auto;
-  }
-  .service-text149 {
     width: auto;
   }
   .service-frame23666 {
@@ -2568,6 +2568,10 @@
     align-self: center;
     justify-content: center;
   }
+  .service-text152 {
+    width: auto;
+    font-size: 11px;
+  }
   .service-text153 {
     width: auto;
     font-size: 11px;
@@ -2577,10 +2581,6 @@
     font-size: 11px;
   }
   .service-text155 {
-    width: auto;
-    font-size: 11px;
-  }
-  .service-text156 {
     width: auto;
     font-size: 11px;
   }
