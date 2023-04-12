@@ -85,6 +85,10 @@
   </head>
   <body>
     <div>
+      <script
+        type="text/javascript"
+        src="https://unpkg.com/dangerous-html@0.1.12/dist/default/lib.umd.js"
+      ></script>
       <link href="./thanks.css" rel="stylesheet" />
 
       <div class="thanks-container">
@@ -212,6 +216,14 @@
               <span class="thanks-text24">トップに戻る</span>
             </div>
           </a>
+          <div>
+            <dangerous-html
+              html="<script src='https://r.moshimo.com/af/r/result.js?p_id=4782&amp;pc_id=12634&amp;m_v=ghi' id='msmaf'></script>
+<noscript><img src='https://r.moshimo.com/af/r/result?p_id=4782&amp;pc_id=12634&amp;m_v={{msmaf_m_v}}' width='1' height='1' alt=''></noscript>
+<script src='https://r.moshimo.com/af/r/result.js?p_id=4782&amp;pc_id=12636&amp;m_v={{msmaf_m_v}}' id='msmaf'></script>
+<noscript><img src='https://r.moshimo.com/af/r/result?p_id=4782&amp;pc_id=12636&amp;m_v=jkl' width='1' height='1' alt=''></noscript>"
+            ></dangerous-html>
+          </div>
         </div>
       </div>
     </div>
